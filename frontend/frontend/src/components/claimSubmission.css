@@ -1,0 +1,157 @@
+/* -----------------------------------------------------------------
+   CLAIM FORM STYLES (claimSubmission.css)
+   Modern Tabular Layout with Cyan Accent + Review Box
+----------------------------------------------------------------- */
+
+.claim-eligibility-check {
+  padding: 50px 20px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  background-color: #0A0E1A;
+  min-height: 100vh;
+}
+
+.claim-form-container {
+  background-color: #1B2033;
+  padding: 40px;
+  border-radius: 12px;
+  max-width: 850px;
+  width: 100%;
+  border: 1px solid #3A415A;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
+  color: #E0E6F7;
+}
+
+.claim-form-container h2 {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 25px;
+  color: #E0E6F7;
+  font-weight: 600;
+  border-bottom: 1px solid #3A415A;
+  padding-bottom: 10px;
+}
+
+/* --- TABLE-STYLE FORM LAYOUT --- */
+.claim-form-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0 15px;
+}
+
+.claim-form-table td {
+  padding: 10px 15px;
+  vertical-align: top;
+}
+
+.claim-form-table label {
+  display: block;
+  color: #AAB3CD;
+  font-weight: 500;
+  margin-bottom: 6px;
+  font-size: 0.95rem;
+}
+
+.claim-form-table input[type="text"],
+.claim-form-table input[type="number"],
+.claim-form-table textarea {
+  width: 100%;
+  padding: 12px;
+  background-color: #0A0E1A;
+  color: #E0E6F7;
+  border: 1px solid #3A415A;
+  border-radius: 6px;
+  box-sizing: border-box;
+  transition: border-color 0.3s, box-shadow 0.3s;
+}
+
+.claim-form-table textarea {
+  resize: vertical;
+  min-height: 80px;
+}
+
+/* --- FOCUS EFFECTS --- */
+.claim-form-table input:focus,
+.claim-form-table textarea:focus {
+  border-color: #00CED1;
+  outline: none;
+  box-shadow: 0 0 10px rgba(0, 206, 209, 0.5);
+}
+
+/* --- SUBMIT BUTTON --- */
+.verify-claim-button {
+  background-color: #00CED1;
+  color: #0A0E1A;
+  border: none;
+  padding: 12px 25px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.1s;
+  display: block;
+  margin: 25px auto 0;
+}
+
+.verify-claim-button:hover {
+  background-color: #00B3B6;
+  transform: translateY(-1px);
+}
+
+/* --- REVIEW BOX (Yellow Section) --- */
+.review-section {
+  background-color: #2E2A00;
+  border-left: 6px solid #FFD700;
+  padding: 25px;
+  border-radius: 8px;
+  margin-top: 35px;
+  color: #FFF5CC;
+  box-shadow: 0 4px 15px rgba(255, 215, 0, 0.15);
+}
+
+.review-section h3 {
+  margin-top: 0;
+  color: #FFD700;
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.review-section h3::before {
+  content: "⚠";
+}
+
+.review-section ul {
+  margin: 10px 0 0 20px;
+  padding: 0;
+}
+
+.review-section li {
+  line-height: 1.6;
+  font-size: 0.95rem;
+}
+
+/* --- RESPONSIVE --- */
+@media (max-width: 768px) {
+  .claim-form-container {
+    padding: 25px;
+  }
+
+  .claim-form-table td {
+    display: block;
+    width: 100%;
+    padding: 8px 0;
+  }
+
+  .verify-claim-button {
+    width: 100%;
+    max-width: 250px;
+  }
+
+  .review-section {
+    padding: 20px;
+  }
+}

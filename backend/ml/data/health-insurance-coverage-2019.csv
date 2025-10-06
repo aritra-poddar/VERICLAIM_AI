@@ -1,0 +1,696 @@
+"Town","FIPS","Year","Age Range","Insurance Status","Measure Type","Variable","Value"
+"Andover","0901301080","2008-2012","All","With Private Health Insurance","Number","Health Insurance",2776
+"Andover","0901301080","2008-2012","All","With Private Health Insurance","Number","Margins of Error",243
+"Andover","0901301080","2008-2012","All","With Private Health Insurance","Percent","Health Insurance",87.2
+"Andover","0901301080","2008-2012","All","With Private Health Insurance","Percent","Margins of Error",6.5
+"Andover","0901301080","2008-2012","All","With Public Health Insurance","Number","Health Insurance",549
+"Andover","0901301080","2008-2012","All","With Public Health Insurance","Number","Margins of Error",122
+"Andover","0901301080","2008-2012","All","With Public Health Insurance","Percent","Health Insurance",17.2
+"Andover","0901301080","2008-2012","All","With Public Health Insurance","Percent","Margins of Error",3.7
+"Andover","0901301080","2008-2012","All","Without Health Insurance","Number","Health Insurance",130
+"Andover","0901301080","2008-2012","All","Without Health Insurance","Number","Margins of Error",91
+"Andover","0901301080","2008-2012","All","Without Health Insurance","Percent","Health Insurance",4.1
+"Andover","0901301080","2008-2012","All","Without Health Insurance","Percent","Margins of Error",2.9
+"Andover","0901301080","2008-2012","Under 18","With Private Health Insurance","Number","Health Insurance",685
+"Andover","0901301080","2008-2012","Under 18","With Private Health Insurance","Number","Margins of Error",134
+"Andover","0901301080","2008-2012","Under 18","With Private Health Insurance","Percent","Health Insurance",88.4
+"Andover","0901301080","2008-2012","Under 18","With Private Health Insurance","Percent","Margins of Error",5.8
+"Andover","0901301080","2008-2012","Under 18","With Public Health Insurance","Number","Health Insurance",100
+"Andover","0901301080","2008-2012","Under 18","With Public Health Insurance","Number","Margins of Error",71
+"Andover","0901301080","2008-2012","Under 18","With Public Health Insurance","Percent","Health Insurance",12.9
+"Andover","0901301080","2008-2012","Under 18","With Public Health Insurance","Percent","Margins of Error",8.9
+"Andover","0901301080","2008-2012","Under 18","Without Health Insurance","Number","Health Insurance",0
+"Andover","0901301080","2008-2012","Under 18","Without Health Insurance","Number","Margins of Error",24
+"Andover","0901301080","2008-2012","Under 18","Without Health Insurance","Percent","Health Insurance",0
+"Andover","0901301080","2008-2012","Under 18","Without Health Insurance","Percent","Margins of Error",3.1
+"Andover","0901301080","2008-2012","18-64","With Private Health Insurance","Number","Health Insurance",1821
+"Andover","0901301080","2008-2012","18-64","With Private Health Insurance","Number","Margins of Error",184
+"Andover","0901301080","2008-2012","18-64","With Private Health Insurance","Percent","Health Insurance",89.5
+"Andover","0901301080","2008-2012","18-64","With Private Health Insurance","Percent","Margins of Error",1.1
+"Andover","0901301080","2008-2012","18-64","With Public Health Insurance","Number","Health Insurance",134
+"Andover","0901301080","2008-2012","18-64","With Public Health Insurance","Number","Margins of Error",59
+"Andover","0901301080","2008-2012","18-64","With Public Health Insurance","Percent","Health Insurance",6.6
+"Andover","0901301080","2008-2012","18-64","With Public Health Insurance","Percent","Margins of Error",2.8
+"Andover","0901301080","2008-2012","18-64","Without Health Insurance","Number","Health Insurance",130
+"Andover","0901301080","2008-2012","18-64","Without Health Insurance","Number","Margins of Error",85
+"Andover","0901301080","2008-2012","18-64","Without Health Insurance","Percent","Health Insurance",6.4
+"Andover","0901301080","2008-2012","18-64","Without Health Insurance","Percent","Margins of Error",4.1
+"Andover","0901301080","2008-2012","65+","With Private Health Insurance","Number","Health Insurance",270
+"Andover","0901301080","2008-2012","65+","With Private Health Insurance","Number","Margins of Error",85
+"Andover","0901301080","2008-2012","65+","With Private Health Insurance","Percent","Health Insurance",71.8
+"Andover","0901301080","2008-2012","65+","With Private Health Insurance","Percent","Margins of Error",12.1
+"Andover","0901301080","2008-2012","65+","With Public Health Insurance","Number","Health Insurance",315
+"Andover","0901301080","2008-2012","65+","With Public Health Insurance","Number","Margins of Error",78
+"Andover","0901301080","2008-2012","65+","With Public Health Insurance","Percent","Health Insurance",83.8
+"Andover","0901301080","2008-2012","65+","With Public Health Insurance","Percent","Margins of Error",30.5
+"Andover","0901301080","2008-2012","65+","Without Health Insurance","Number","Health Insurance",0
+"Andover","0901301080","2008-2012","65+","Without Health Insurance","Number","Margins of Error",24
+"Andover","0901301080","2008-2012","65+","Without Health Insurance","Percent","Health Insurance",0
+"Andover","0901301080","2008-2012","65+","Without Health Insurance","Percent","Margins of Error",6.4
+"Andover","0901301080","2009-2013","All","With Private Health Insurance","Number","Health Insurance",2640
+"Andover","0901301080","2009-2013","All","With Private Health Insurance","Number","Margins of Error",232
+"Andover","0901301080","2009-2013","All","With Private Health Insurance","Percent","Health Insurance",85.3
+"Andover","0901301080","2009-2013","All","With Private Health Insurance","Percent","Margins of Error",6.3
+"Andover","0901301080","2009-2013","All","With Public Health Insurance","Number","Health Insurance",657
+"Andover","0901301080","2009-2013","All","With Public Health Insurance","Number","Margins of Error",137
+"Andover","0901301080","2009-2013","All","With Public Health Insurance","Percent","Health Insurance",21.2
+"Andover","0901301080","2009-2013","All","With Public Health Insurance","Percent","Margins of Error",4.3
+"Andover","0901301080","2009-2013","All","Without Health Insurance","Number","Health Insurance",118
+"Andover","0901301080","2009-2013","All","Without Health Insurance","Number","Margins of Error",81
+"Andover","0901301080","2009-2013","All","Without Health Insurance","Percent","Health Insurance",3.8
+"Andover","0901301080","2009-2013","All","Without Health Insurance","Percent","Margins of Error",2.6
+"Andover","0901301080","2009-2013","Under 18","With Private Health Insurance","Number","Health Insurance",638
+"Andover","0901301080","2009-2013","Under 18","With Private Health Insurance","Number","Margins of Error",112
+"Andover","0901301080","2009-2013","Under 18","With Private Health Insurance","Percent","Health Insurance",84.6
+"Andover","0901301080","2009-2013","Under 18","With Private Health Insurance","Percent","Margins of Error",21
+"Andover","0901301080","2009-2013","Under 18","With Public Health Insurance","Number","Health Insurance",127
+"Andover","0901301080","2009-2013","Under 18","With Public Health Insurance","Number","Margins of Error",78
+"Andover","0901301080","2009-2013","Under 18","With Public Health Insurance","Percent","Health Insurance",16.8
+"Andover","0901301080","2009-2013","Under 18","With Public Health Insurance","Percent","Margins of Error",10
+"Andover","0901301080","2009-2013","Under 18","Without Health Insurance","Number","Health Insurance",0
+"Andover","0901301080","2009-2013","Under 18","Without Health Insurance","Number","Margins of Error",24
+"Andover","0901301080","2009-2013","Under 18","Without Health Insurance","Percent","Health Insurance",0
+"Andover","0901301080","2009-2013","Under 18","Without Health Insurance","Percent","Margins of Error",3.2
+"Andover","0901301080","2009-2013","18-64","With Private Health Insurance","Number","Health Insurance",1705
+"Andover","0901301080","2009-2013","18-64","With Private Health Insurance","Number","Margins of Error",177
+"Andover","0901301080","2009-2013","18-64","With Private Health Insurance","Percent","Health Insurance",88
+"Andover","0901301080","2009-2013","18-64","With Private Health Insurance","Percent","Margins of Error",3.3
+"Andover","0901301080","2009-2013","18-64","With Public Health Insurance","Number","Health Insurance",195
+"Andover","0901301080","2009-2013","18-64","With Public Health Insurance","Number","Margins of Error",75
+"Andover","0901301080","2009-2013","18-64","With Public Health Insurance","Percent","Health Insurance",10.1
+"Andover","0901301080","2009-2013","18-64","With Public Health Insurance","Percent","Margins of Error",3.7
+"Andover","0901301080","2009-2013","18-64","Without Health Insurance","Number","Health Insurance",118
+"Andover","0901301080","2009-2013","18-64","Without Health Insurance","Number","Margins of Error",74
+"Andover","0901301080","2009-2013","18-64","Without Health Insurance","Percent","Health Insurance",6.1
+"Andover","0901301080","2009-2013","18-64","Without Health Insurance","Percent","Margins of Error",3.8
+"Andover","0901301080","2009-2013","65+","With Private Health Insurance","Number","Health Insurance",297
+"Andover","0901301080","2009-2013","65+","With Private Health Insurance","Number","Margins of Error",99
+"Andover","0901301080","2009-2013","65+","With Private Health Insurance","Percent","Health Insurance",73.7
+"Andover","0901301080","2009-2013","65+","With Private Health Insurance","Percent","Margins of Error",12.9
+"Andover","0901301080","2009-2013","65+","With Public Health Insurance","Number","Health Insurance",335
+"Andover","0901301080","2009-2013","65+","With Public Health Insurance","Number","Margins of Error",83
+"Andover","0901301080","2009-2013","65+","With Public Health Insurance","Percent","Health Insurance",83.1
+"Andover","0901301080","2009-2013","65+","With Public Health Insurance","Percent","Margins of Error",31.5
+"Andover","0901301080","2009-2013","65+","Without Health Insurance","Number","Health Insurance",0
+"Andover","0901301080","2009-2013","65+","Without Health Insurance","Number","Margins of Error",24
+"Andover","0901301080","2009-2013","65+","Without Health Insurance","Percent","Health Insurance",0
+"Andover","0901301080","2009-2013","65+","Without Health Insurance","Percent","Margins of Error",6
+"Andover","0901301080","2010-2014","All","With Private Health Insurance","Number","Health Insurance",2705
+"Andover","0901301080","2010-2014","All","With Private Health Insurance","Number","Margins of Error",250
+"Andover","0901301080","2010-2014","All","With Private Health Insurance","Percent","Health Insurance",85
+"Andover","0901301080","2010-2014","All","With Private Health Insurance","Percent","Margins of Error",6.8
+"Andover","0901301080","2010-2014","All","With Public Health Insurance","Number","Health Insurance",656
+"Andover","0901301080","2010-2014","All","With Public Health Insurance","Number","Margins of Error",127
+"Andover","0901301080","2010-2014","All","With Public Health Insurance","Percent","Health Insurance",20.6
+"Andover","0901301080","2010-2014","All","With Public Health Insurance","Percent","Margins of Error",3.9
+"Andover","0901301080","2010-2014","All","Without Health Insurance","Number","Health Insurance",137
+"Andover","0901301080","2010-2014","All","Without Health Insurance","Number","Margins of Error",89
+"Andover","0901301080","2010-2014","All","Without Health Insurance","Percent","Health Insurance",4.3
+"Andover","0901301080","2010-2014","All","Without Health Insurance","Percent","Margins of Error",2.8
+"Andover","0901301080","2010-2014","Under 18","With Private Health Insurance","Number","Health Insurance",631
+"Andover","0901301080","2010-2014","Under 18","With Private Health Insurance","Number","Margins of Error",113
+"Andover","0901301080","2010-2014","Under 18","With Private Health Insurance","Percent","Health Insurance",84.9
+"Andover","0901301080","2010-2014","Under 18","With Private Health Insurance","Percent","Margins of Error",4.8
+"Andover","0901301080","2010-2014","Under 18","With Public Health Insurance","Number","Health Insurance",116
+"Andover","0901301080","2010-2014","Under 18","With Public Health Insurance","Number","Margins of Error",72
+"Andover","0901301080","2010-2014","Under 18","With Public Health Insurance","Percent","Health Insurance",15.6
+"Andover","0901301080","2010-2014","Under 18","With Public Health Insurance","Percent","Margins of Error",9.3
+"Andover","0901301080","2010-2014","Under 18","Without Health Insurance","Number","Health Insurance",0
+"Andover","0901301080","2010-2014","Under 18","Without Health Insurance","Number","Margins of Error",24
+"Andover","0901301080","2010-2014","Under 18","Without Health Insurance","Percent","Health Insurance",0
+"Andover","0901301080","2010-2014","Under 18","Without Health Insurance","Percent","Margins of Error",3.2
+"Andover","0901301080","2010-2014","18-64","With Private Health Insurance","Number","Health Insurance",1761
+"Andover","0901301080","2010-2014","18-64","With Private Health Insurance","Number","Margins of Error",198
+"Andover","0901301080","2010-2014","18-64","With Private Health Insurance","Percent","Health Insurance",87.4
+"Andover","0901301080","2010-2014","18-64","With Private Health Insurance","Percent","Margins of Error",3.4
+"Andover","0901301080","2010-2014","18-64","With Public Health Insurance","Number","Health Insurance",195
+"Andover","0901301080","2010-2014","18-64","With Public Health Insurance","Number","Margins of Error",69
+"Andover","0901301080","2010-2014","18-64","With Public Health Insurance","Percent","Health Insurance",9.7
+"Andover","0901301080","2010-2014","18-64","With Public Health Insurance","Percent","Margins of Error",3.3
+"Andover","0901301080","2010-2014","18-64","Without Health Insurance","Number","Health Insurance",137
+"Andover","0901301080","2010-2014","18-64","Without Health Insurance","Number","Margins of Error",82
+"Andover","0901301080","2010-2014","18-64","Without Health Insurance","Percent","Health Insurance",6.8
+"Andover","0901301080","2010-2014","18-64","Without Health Insurance","Percent","Margins of Error",4
+"Andover","0901301080","2010-2014","65+","With Private Health Insurance","Number","Health Insurance",313
+"Andover","0901301080","2010-2014","65+","With Private Health Insurance","Number","Margins of Error",103
+"Andover","0901301080","2010-2014","65+","With Private Health Insurance","Percent","Health Insurance",73.8
+"Andover","0901301080","2010-2014","65+","With Private Health Insurance","Percent","Margins of Error",13.9
+"Andover","0901301080","2010-2014","65+","With Public Health Insurance","Number","Health Insurance",345
+"Andover","0901301080","2010-2014","65+","With Public Health Insurance","Number","Margins of Error",78
+"Andover","0901301080","2010-2014","65+","With Public Health Insurance","Percent","Health Insurance",81.4
+"Andover","0901301080","2010-2014","65+","With Public Health Insurance","Percent","Margins of Error",28.8
+"Andover","0901301080","2010-2014","65+","Without Health Insurance","Number","Health Insurance",0
+"Andover","0901301080","2010-2014","65+","Without Health Insurance","Number","Margins of Error",24
+"Andover","0901301080","2010-2014","65+","Without Health Insurance","Percent","Health Insurance",0
+"Andover","0901301080","2010-2014","65+","Without Health Insurance","Percent","Margins of Error",5.7
+"Andover","0901301080","2011-2015","All","With Private Health Insurance","Number","Health Insurance",2779
+"Andover","0901301080","2011-2015","All","With Private Health Insurance","Number","Margins of Error",259
+"Andover","0901301080","2011-2015","All","With Private Health Insurance","Percent","Health Insurance",86.4
+"Andover","0901301080","2011-2015","All","With Private Health Insurance","Percent","Margins of Error",9.2
+"Andover","0901301080","2011-2015","All","With Public Health Insurance","Number","Health Insurance",771
+"Andover","0901301080","2011-2015","All","With Public Health Insurance","Number","Margins of Error",146
+"Andover","0901301080","2011-2015","All","With Public Health Insurance","Percent","Health Insurance",24
+"Andover","0901301080","2011-2015","All","With Public Health Insurance","Percent","Margins of Error",4.7
+"Andover","0901301080","2011-2015","All","Without Health Insurance","Number","Health Insurance",87
+"Andover","0901301080","2011-2015","All","Without Health Insurance","Number","Margins of Error",72
+"Andover","0901301080","2011-2015","All","Without Health Insurance","Percent","Health Insurance",2.7
+"Andover","0901301080","2011-2015","All","Without Health Insurance","Percent","Margins of Error",2.2
+"Andover","0901301080","2011-2015","Under 18","With Private Health Insurance","Number","Health Insurance",588
+"Andover","0901301080","2011-2015","Under 18","With Private Health Insurance","Number","Margins of Error",111
+"Andover","0901301080","2011-2015","Under 18","With Private Health Insurance","Percent","Health Insurance",85.3
+"Andover","0901301080","2011-2015","Under 18","With Private Health Insurance","Percent","Margins of Error",23
+"Andover","0901301080","2011-2015","Under 18","With Public Health Insurance","Number","Health Insurance",114
+"Andover","0901301080","2011-2015","Under 18","With Public Health Insurance","Number","Margins of Error",75
+"Andover","0901301080","2011-2015","Under 18","With Public Health Insurance","Percent","Health Insurance",16.5
+"Andover","0901301080","2011-2015","Under 18","With Public Health Insurance","Percent","Margins of Error",11.3
+"Andover","0901301080","2011-2015","Under 18","Without Health Insurance","Number","Health Insurance",0
+"Andover","0901301080","2011-2015","Under 18","Without Health Insurance","Number","Margins of Error",24
+"Andover","0901301080","2011-2015","Under 18","Without Health Insurance","Percent","Health Insurance",0
+"Andover","0901301080","2011-2015","Under 18","Without Health Insurance","Percent","Margins of Error",3.5
+"Andover","0901301080","2011-2015","18-64","With Private Health Insurance","Number","Health Insurance",1788
+"Andover","0901301080","2011-2015","18-64","With Private Health Insurance","Number","Margins of Error",212
+"Andover","0901301080","2011-2015","18-64","With Private Health Insurance","Percent","Health Insurance",90.1
+"Andover","0901301080","2011-2015","18-64","With Private Health Insurance","Percent","Margins of Error",15
+"Andover","0901301080","2011-2015","18-64","With Public Health Insurance","Number","Health Insurance",176
+"Andover","0901301080","2011-2015","18-64","With Public Health Insurance","Number","Margins of Error",69
+"Andover","0901301080","2011-2015","18-64","With Public Health Insurance","Percent","Health Insurance",8.9
+"Andover","0901301080","2011-2015","18-64","With Public Health Insurance","Percent","Margins of Error",3.6
+"Andover","0901301080","2011-2015","18-64","Without Health Insurance","Number","Health Insurance",87
+"Andover","0901301080","2011-2015","18-64","Without Health Insurance","Number","Margins of Error",63
+"Andover","0901301080","2011-2015","18-64","Without Health Insurance","Percent","Health Insurance",4.4
+"Andover","0901301080","2011-2015","18-64","Without Health Insurance","Percent","Margins of Error",3.2
+"Andover","0901301080","2011-2015","65+","With Private Health Insurance","Number","Health Insurance",403
+"Andover","0901301080","2011-2015","65+","With Private Health Insurance","Number","Margins of Error",98
+"Andover","0901301080","2011-2015","65+","With Private Health Insurance","Percent","Health Insurance",74.1
+"Andover","0901301080","2011-2015","65+","With Private Health Insurance","Percent","Margins of Error",23.9
+"Andover","0901301080","2011-2015","65+","With Public Health Insurance","Number","Health Insurance",481
+"Andover","0901301080","2011-2015","65+","With Public Health Insurance","Number","Margins of Error",105
+"Andover","0901301080","2011-2015","65+","With Public Health Insurance","Percent","Health Insurance",88.4
+"Andover","0901301080","2011-2015","65+","With Public Health Insurance","Percent","Margins of Error",26.8
+"Andover","0901301080","2011-2015","65+","Without Health Insurance","Number","Health Insurance",0
+"Andover","0901301080","2011-2015","65+","Without Health Insurance","Number","Margins of Error",24
+"Andover","0901301080","2011-2015","65+","Without Health Insurance","Percent","Health Insurance",0
+"Andover","0901301080","2011-2015","65+","Without Health Insurance","Percent","Margins of Error",4.4
+"Andover","0901301080","2012-2016","All","With Private Health Insurance","Number","Health Insurance",2920
+"Andover","0901301080","2012-2016","All","With Private Health Insurance","Number","Margins of Error",247
+"Andover","0901301080","2012-2016","All","With Private Health Insurance","Percent","Health Insurance",90.9
+"Andover","0901301080","2012-2016","All","With Private Health Insurance","Percent","Margins of Error",8.8
+"Andover","0901301080","2012-2016","All","With Public Health Insurance","Number","Health Insurance",635
+"Andover","0901301080","2012-2016","All","With Public Health Insurance","Number","Margins of Error",109
+"Andover","0901301080","2012-2016","All","With Public Health Insurance","Percent","Health Insurance",19.8
+"Andover","0901301080","2012-2016","All","With Public Health Insurance","Percent","Margins of Error",3.5
+"Andover","0901301080","2012-2016","All","Without Health Insurance","Number","Health Insurance",63
+"Andover","0901301080","2012-2016","All","Without Health Insurance","Number","Margins of Error",63
+"Andover","0901301080","2012-2016","All","Without Health Insurance","Percent","Health Insurance",2
+"Andover","0901301080","2012-2016","All","Without Health Insurance","Percent","Margins of Error",2
+"Andover","0901301080","2012-2016","Under 18","With Private Health Insurance","Number","Health Insurance",586
+"Andover","0901301080","2012-2016","Under 18","With Private Health Insurance","Number","Margins of Error",111
+"Andover","0901301080","2012-2016","Under 18","With Private Health Insurance","Percent","Health Insurance",92.9
+"Andover","0901301080","2012-2016","Under 18","With Private Health Insurance","Percent","Margins of Error",24
+"Andover","0901301080","2012-2016","Under 18","With Public Health Insurance","Number","Health Insurance",65
+"Andover","0901301080","2012-2016","Under 18","With Public Health Insurance","Number","Margins of Error",46
+"Andover","0901301080","2012-2016","Under 18","With Public Health Insurance","Percent","Health Insurance",10.3
+"Andover","0901301080","2012-2016","Under 18","With Public Health Insurance","Percent","Margins of Error",7.5
+"Andover","0901301080","2012-2016","Under 18","Without Health Insurance","Number","Health Insurance",0
+"Andover","0901301080","2012-2016","Under 18","Without Health Insurance","Number","Margins of Error",24
+"Andover","0901301080","2012-2016","Under 18","Without Health Insurance","Percent","Health Insurance",0
+"Andover","0901301080","2012-2016","Under 18","Without Health Insurance","Percent","Margins of Error",3.8
+"Andover","0901301080","2012-2016","18-64","With Private Health Insurance","Number","Health Insurance",2014
+"Andover","0901301080","2012-2016","18-64","With Private Health Insurance","Number","Margins of Error",207
+"Andover","0901301080","2012-2016","18-64","With Private Health Insurance","Percent","Health Insurance",92.2
+"Andover","0901301080","2012-2016","18-64","With Private Health Insurance","Percent","Margins of Error",13.2
+"Andover","0901301080","2012-2016","18-64","With Public Health Insurance","Number","Health Insurance",181
+"Andover","0901301080","2012-2016","18-64","With Public Health Insurance","Number","Margins of Error",64
+"Andover","0901301080","2012-2016","18-64","With Public Health Insurance","Percent","Health Insurance",8.3
+"Andover","0901301080","2012-2016","18-64","With Public Health Insurance","Percent","Margins of Error",3
+"Andover","0901301080","2012-2016","18-64","Without Health Insurance","Number","Health Insurance",63
+"Andover","0901301080","2012-2016","18-64","Without Health Insurance","Number","Margins of Error",53
+"Andover","0901301080","2012-2016","18-64","Without Health Insurance","Percent","Health Insurance",2.9
+"Andover","0901301080","2012-2016","18-64","Without Health Insurance","Percent","Margins of Error",2.4
+"Andover","0901301080","2012-2016","65+","With Private Health Insurance","Number","Health Insurance",320
+"Andover","0901301080","2012-2016","65+","With Private Health Insurance","Number","Margins of Error",75
+"Andover","0901301080","2012-2016","65+","With Private Health Insurance","Percent","Health Insurance",80.8
+"Andover","0901301080","2012-2016","65+","With Private Health Insurance","Percent","Margins of Error",24.8
+"Andover","0901301080","2012-2016","65+","With Public Health Insurance","Number","Health Insurance",389
+"Andover","0901301080","2012-2016","65+","With Public Health Insurance","Number","Margins of Error",76
+"Andover","0901301080","2012-2016","65+","With Public Health Insurance","Percent","Health Insurance",98.2
+"Andover","0901301080","2012-2016","65+","With Public Health Insurance","Percent","Margins of Error",27.3
+"Andover","0901301080","2012-2016","65+","Without Health Insurance","Number","Health Insurance",0
+"Andover","0901301080","2012-2016","65+","Without Health Insurance","Number","Margins of Error",24
+"Andover","0901301080","2012-2016","65+","Without Health Insurance","Percent","Health Insurance",0
+"Andover","0901301080","2012-2016","65+","Without Health Insurance","Percent","Margins of Error",6.1
+"Andover","0901301080","2013-2017","All","With Private Health Insurance","Number","Health Insurance",2878
+"Andover","0901301080","2013-2017","All","With Private Health Insurance","Number","Margins of Error",251
+"Andover","0901301080","2013-2017","All","With Private Health Insurance","Percent","Health Insurance",90.5
+"Andover","0901301080","2013-2017","All","With Private Health Insurance","Percent","Margins of Error",8.8
+"Andover","0901301080","2013-2017","All","With Public Health Insurance","Number","Health Insurance",645
+"Andover","0901301080","2013-2017","All","With Public Health Insurance","Number","Margins of Error",120
+"Andover","0901301080","2013-2017","All","With Public Health Insurance","Percent","Health Insurance",20.3
+"Andover","0901301080","2013-2017","All","With Public Health Insurance","Percent","Margins of Error",3.9
+"Andover","0901301080","2013-2017","All","Without Health Insurance","Number","Health Insurance",65
+"Andover","0901301080","2013-2017","All","Without Health Insurance","Number","Margins of Error",66
+"Andover","0901301080","2013-2017","All","Without Health Insurance","Percent","Health Insurance",2
+"Andover","0901301080","2013-2017","All","Without Health Insurance","Percent","Margins of Error",2.1
+"Andover","0901301080","2013-2017","Under 18","With Private Health Insurance","Number","Health Insurance",699
+"Andover","0901301080","2013-2017","Under 18","With Private Health Insurance","Number","Margins of Error",139
+"Andover","0901301080","2013-2017","Under 18","With Private Health Insurance","Percent","Health Insurance",92.3
+"Andover","0901301080","2013-2017","Under 18","With Private Health Insurance","Percent","Margins of Error",25.1
+"Andover","0901301080","2013-2017","Under 18","With Public Health Insurance","Number","Health Insurance",82
+"Andover","0901301080","2013-2017","Under 18","With Public Health Insurance","Number","Margins of Error",52
+"Andover","0901301080","2013-2017","Under 18","With Public Health Insurance","Percent","Health Insurance",10.8
+"Andover","0901301080","2013-2017","Under 18","With Public Health Insurance","Percent","Margins of Error",7.2
+"Andover","0901301080","2013-2017","Under 18","Without Health Insurance","Number","Health Insurance",0
+"Andover","0901301080","2013-2017","Under 18","Without Health Insurance","Number","Margins of Error",24
+"Andover","0901301080","2013-2017","Under 18","Without Health Insurance","Percent","Health Insurance",0
+"Andover","0901301080","2013-2017","Under 18","Without Health Insurance","Percent","Margins of Error",3.2
+"Andover","0901301080","2013-2017","18-64","With Private Health Insurance","Number","Health Insurance",1856
+"Andover","0901301080","2013-2017","18-64","With Private Health Insurance","Number","Margins of Error",194
+"Andover","0901301080","2013-2017","18-64","With Private Health Insurance","Percent","Health Insurance",91.4
+"Andover","0901301080","2013-2017","18-64","With Private Health Insurance","Percent","Margins of Error",13.1
+"Andover","0901301080","2013-2017","18-64","With Public Health Insurance","Number","Health Insurance",178
+"Andover","0901301080","2013-2017","18-64","With Public Health Insurance","Number","Margins of Error",69
+"Andover","0901301080","2013-2017","18-64","With Public Health Insurance","Percent","Health Insurance",8.8
+"Andover","0901301080","2013-2017","18-64","With Public Health Insurance","Percent","Margins of Error",3.5
+"Andover","0901301080","2013-2017","18-64","Without Health Insurance","Number","Health Insurance",65
+"Andover","0901301080","2013-2017","18-64","Without Health Insurance","Number","Margins of Error",57
+"Andover","0901301080","2013-2017","18-64","Without Health Insurance","Percent","Health Insurance",3.2
+"Andover","0901301080","2013-2017","18-64","Without Health Insurance","Percent","Margins of Error",2.8
+"Andover","0901301080","2013-2017","65+","With Private Health Insurance","Number","Health Insurance",323
+"Andover","0901301080","2013-2017","65+","With Private Health Insurance","Number","Margins of Error",79
+"Andover","0901301080","2013-2017","65+","With Private Health Insurance","Percent","Health Insurance",82.4
+"Andover","0901301080","2013-2017","65+","With Private Health Insurance","Percent","Margins of Error",26.7
+"Andover","0901301080","2013-2017","65+","With Public Health Insurance","Number","Health Insurance",385
+"Andover","0901301080","2013-2017","65+","With Public Health Insurance","Number","Margins of Error",83
+"Andover","0901301080","2013-2017","65+","With Public Health Insurance","Percent","Health Insurance",98.2
+"Andover","0901301080","2013-2017","65+","With Public Health Insurance","Percent","Margins of Error",29.7
+"Andover","0901301080","2013-2017","65+","Without Health Insurance","Number","Health Insurance",0
+"Andover","0901301080","2013-2017","65+","Without Health Insurance","Number","Margins of Error",24
+"Andover","0901301080","2013-2017","65+","Without Health Insurance","Percent","Health Insurance",0
+"Andover","0901301080","2013-2017","65+","Without Health Insurance","Percent","Margins of Error",6.1
+"Andover","0901301080","2014-2018","All","With Private Health Insurance","Number","Health Insurance",2887
+"Andover","0901301080","2014-2018","All","With Private Health Insurance","Number","Margins of Error",276
+"Andover","0901301080","2014-2018","All","With Private Health Insurance","Percent","Health Insurance",89.6
+"Andover","0901301080","2014-2018","All","With Private Health Insurance","Percent","Margins of Error",9.2
+"Andover","0901301080","2014-2018","All","With Public Health Insurance","Number","Health Insurance",666
+"Andover","0901301080","2014-2018","All","With Public Health Insurance","Number","Margins of Error",117
+"Andover","0901301080","2014-2018","All","With Public Health Insurance","Percent","Health Insurance",20.7
+"Andover","0901301080","2014-2018","All","With Public Health Insurance","Percent","Margins of Error",3.7
+"Andover","0901301080","2014-2018","All","Without Health Insurance","Number","Health Insurance",56
+"Andover","0901301080","2014-2018","All","Without Health Insurance","Number","Margins of Error",68
+"Andover","0901301080","2014-2018","All","Without Health Insurance","Percent","Health Insurance",1.7
+"Andover","0901301080","2014-2018","All","Without Health Insurance","Percent","Margins of Error",2.1
+"Andover","0901301080","2014-2018","Under 18","With Private Health Insurance","Number","Health Insurance",687
+"Andover","0901301080","2014-2018","Under 18","With Private Health Insurance","Number","Margins of Error",160
+"Andover","0901301080","2014-2018","Under 18","With Private Health Insurance","Percent","Health Insurance",91.8
+"Andover","0901301080","2014-2018","Under 18","With Private Health Insurance","Percent","Margins of Error",29.5
+"Andover","0901301080","2014-2018","Under 18","With Public Health Insurance","Number","Health Insurance",91
+"Andover","0901301080","2014-2018","Under 18","With Public Health Insurance","Number","Margins of Error",57
+"Andover","0901301080","2014-2018","Under 18","With Public Health Insurance","Percent","Health Insurance",12.2
+"Andover","0901301080","2014-2018","Under 18","With Public Health Insurance","Percent","Margins of Error",8.1
+"Andover","0901301080","2014-2018","Under 18","Without Health Insurance","Number","Health Insurance",0
+"Andover","0901301080","2014-2018","Under 18","Without Health Insurance","Number","Margins of Error",24
+"Andover","0901301080","2014-2018","Under 18","Without Health Insurance","Percent","Health Insurance",0
+"Andover","0901301080","2014-2018","Under 18","Without Health Insurance","Percent","Margins of Error",3.2
+"Andover","0901301080","2014-2018","18-64","With Private Health Insurance","Number","Health Insurance",1897
+"Andover","0901301080","2014-2018","18-64","With Private Health Insurance","Number","Margins of Error",214
+"Andover","0901301080","2014-2018","18-64","With Private Health Insurance","Percent","Health Insurance",91.6
+"Andover","0901301080","2014-2018","18-64","With Private Health Insurance","Percent","Margins of Error",14.3
+"Andover","0901301080","2014-2018","18-64","With Public Health Insurance","Number","Health Insurance",179
+"Andover","0901301080","2014-2018","18-64","With Public Health Insurance","Number","Margins of Error",70
+"Andover","0901301080","2014-2018","18-64","With Public Health Insurance","Percent","Health Insurance",8.6
+"Andover","0901301080","2014-2018","18-64","With Public Health Insurance","Percent","Margins of Error",3.5
+"Andover","0901301080","2014-2018","18-64","Without Health Insurance","Number","Health Insurance",56
+"Andover","0901301080","2014-2018","18-64","Without Health Insurance","Number","Margins of Error",59
+"Andover","0901301080","2014-2018","18-64","Without Health Insurance","Percent","Health Insurance",2.7
+"Andover","0901301080","2014-2018","18-64","Without Health Insurance","Percent","Margins of Error",2.9
+"Andover","0901301080","2014-2018","65+","With Private Health Insurance","Number","Health Insurance",303
+"Andover","0901301080","2014-2018","65+","With Private Health Insurance","Number","Margins of Error",68
+"Andover","0901301080","2014-2018","65+","With Private Health Insurance","Percent","Health Insurance",74.8
+"Andover","0901301080","2014-2018","65+","With Private Health Insurance","Percent","Margins of Error",21.7
+"Andover","0901301080","2014-2018","65+","With Public Health Insurance","Number","Health Insurance",396
+"Andover","0901301080","2014-2018","65+","With Public Health Insurance","Number","Margins of Error",73
+"Andover","0901301080","2014-2018","65+","With Public Health Insurance","Percent","Health Insurance",97.8
+"Andover","0901301080","2014-2018","65+","With Public Health Insurance","Percent","Margins of Error",25.4
+"Andover","0901301080","2014-2018","65+","Without Health Insurance","Number","Health Insurance",0
+"Andover","0901301080","2014-2018","65+","Without Health Insurance","Number","Margins of Error",24
+"Andover","0901301080","2014-2018","65+","Without Health Insurance","Percent","Health Insurance",0
+"Andover","0901301080","2014-2018","65+","Without Health Insurance","Percent","Margins of Error",5.9
+"Andover","0901301080","2015-2019","All","With Private Health Insurance","Number","Health Insurance",2836
+"Andover","0901301080","2015-2019","All","With Private Health Insurance","Number","Margins of Error",275
+"Andover","0901301080","2015-2019","All","With Private Health Insurance","Percent","Health Insurance",88.5
+"Andover","0901301080","2015-2019","All","With Private Health Insurance","Percent","Margins of Error",9.3
+"Andover","0901301080","2015-2019","All","With Public Health Insurance","Number","Health Insurance",675
+"Andover","0901301080","2015-2019","All","With Public Health Insurance","Number","Margins of Error",118
+"Andover","0901301080","2015-2019","All","With Public Health Insurance","Percent","Health Insurance",21.1
+"Andover","0901301080","2015-2019","All","With Public Health Insurance","Percent","Margins of Error",3.8
+"Andover","0901301080","2015-2019","All","Without Health Insurance","Number","Health Insurance",103
+"Andover","0901301080","2015-2019","All","Without Health Insurance","Number","Margins of Error",77
+"Andover","0901301080","2015-2019","All","Without Health Insurance","Percent","Health Insurance",3.2
+"Andover","0901301080","2015-2019","All","Without Health Insurance","Percent","Margins of Error",2.4
+"Andover","0901301080","2015-2019","Under 18","With Private Health Insurance","Number","Health Insurance",684
+"Andover","0901301080","2015-2019","Under 18","With Private Health Insurance","Number","Margins of Error",160
+"Andover","0901301080","2015-2019","Under 18","With Private Health Insurance","Percent","Health Insurance",92.6
+"Andover","0901301080","2015-2019","Under 18","With Private Health Insurance","Percent","Margins of Error",29.7
+"Andover","0901301080","2015-2019","Under 18","With Public Health Insurance","Number","Health Insurance",88
+"Andover","0901301080","2015-2019","Under 18","With Public Health Insurance","Number","Margins of Error",58
+"Andover","0901301080","2015-2019","Under 18","With Public Health Insurance","Percent","Health Insurance",11.9
+"Andover","0901301080","2015-2019","Under 18","With Public Health Insurance","Percent","Margins of Error",8.3
+"Andover","0901301080","2015-2019","Under 18","Without Health Insurance","Number","Health Insurance",0
+"Andover","0901301080","2015-2019","Under 18","Without Health Insurance","Number","Margins of Error",24
+"Andover","0901301080","2015-2019","Under 18","Without Health Insurance","Percent","Health Insurance",0
+"Andover","0901301080","2015-2019","Under 18","Without Health Insurance","Percent","Margins of Error",3.2
+"Andover","0901301080","2015-2019","18-64","With Private Health Insurance","Number","Health Insurance",1810
+"Andover","0901301080","2015-2019","18-64","With Private Health Insurance","Number","Margins of Error",211
+"Andover","0901301080","2015-2019","18-64","With Private Health Insurance","Percent","Health Insurance",90.1
+"Andover","0901301080","2015-2019","18-64","With Private Health Insurance","Percent","Margins of Error",14.3
+"Andover","0901301080","2015-2019","18-64","With Public Health Insurance","Number","Health Insurance",142
+"Andover","0901301080","2015-2019","18-64","With Public Health Insurance","Number","Margins of Error",63
+"Andover","0901301080","2015-2019","18-64","With Public Health Insurance","Percent","Health Insurance",7.1
+"Andover","0901301080","2015-2019","18-64","With Public Health Insurance","Percent","Margins of Error",3.2
+"Andover","0901301080","2015-2019","18-64","Without Health Insurance","Number","Health Insurance",103
+"Andover","0901301080","2015-2019","18-64","Without Health Insurance","Number","Margins of Error",69
+"Andover","0901301080","2015-2019","18-64","Without Health Insurance","Percent","Health Insurance",5.1
+"Andover","0901301080","2015-2019","18-64","Without Health Insurance","Percent","Margins of Error",3.5
+"Andover","0901301080","2015-2019","65+","With Private Health Insurance","Number","Health Insurance",342
+"Andover","0901301080","2015-2019","65+","With Private Health Insurance","Number","Margins of Error",75
+"Andover","0901301080","2015-2019","65+","With Private Health Insurance","Percent","Health Insurance",75.2
+"Andover","0901301080","2015-2019","65+","With Private Health Insurance","Percent","Margins of Error",21.3
+"Andover","0901301080","2015-2019","65+","With Public Health Insurance","Number","Health Insurance",445
+"Andover","0901301080","2015-2019","65+","With Public Health Insurance","Number","Margins of Error",81
+"Andover","0901301080","2015-2019","65+","With Public Health Insurance","Percent","Health Insurance",97.8
+"Andover","0901301080","2015-2019","65+","With Public Health Insurance","Percent","Margins of Error",24.9
+"Andover","0901301080","2015-2019","65+","Without Health Insurance","Number","Health Insurance",0
+"Andover","0901301080","2015-2019","65+","Without Health Insurance","Number","Margins of Error",24
+"Andover","0901301080","2015-2019","65+","Without Health Insurance","Percent","Health Insurance",0
+"Andover","0901301080","2015-2019","65+","Without Health Insurance","Percent","Margins of Error",5.3
+"Ansonia","0900901220","2008-2012","All","With Private Health Insurance","Number","Health Insurance",11859
+"Ansonia","0900901220","2008-2012","All","With Private Health Insurance","Number","Margins of Error",777
+"Ansonia","0900901220","2008-2012","All","With Private Health Insurance","Percent","Health Insurance",62.1
+"Ansonia","0900901220","2008-2012","All","With Private Health Insurance","Percent","Margins of Error",4.1
+"Ansonia","0900901220","2008-2012","All","With Public Health Insurance","Number","Health Insurance",6883
+"Ansonia","0900901220","2008-2012","All","With Public Health Insurance","Number","Margins of Error",712
+"Ansonia","0900901220","2008-2012","All","With Public Health Insurance","Percent","Health Insurance",36
+"Ansonia","0900901220","2008-2012","All","With Public Health Insurance","Percent","Margins of Error",3.7
+"Ansonia","0900901220","2008-2012","All","Without Health Insurance","Number","Health Insurance",2631
+"Ansonia","0900901220","2008-2012","All","Without Health Insurance","Number","Margins of Error",494
+"Ansonia","0900901220","2008-2012","All","Without Health Insurance","Percent","Health Insurance",13.8
+"Ansonia","0900901220","2008-2012","All","Without Health Insurance","Percent","Margins of Error",2.6
+"Ansonia","0900901220","2008-2012","Under 18","With Private Health Insurance","Number","Health Insurance",2304
+"Ansonia","0900901220","2008-2012","Under 18","With Private Health Insurance","Number","Margins of Error",395
+"Ansonia","0900901220","2008-2012","Under 18","With Private Health Insurance","Percent","Health Insurance",50.9
+"Ansonia","0900901220","2008-2012","Under 18","With Private Health Insurance","Percent","Margins of Error",4.8
+"Ansonia","0900901220","2008-2012","Under 18","With Public Health Insurance","Number","Health Insurance",2072
+"Ansonia","0900901220","2008-2012","Under 18","With Public Health Insurance","Number","Margins of Error",510
+"Ansonia","0900901220","2008-2012","Under 18","With Public Health Insurance","Percent","Health Insurance",45.8
+"Ansonia","0900901220","2008-2012","Under 18","With Public Health Insurance","Percent","Margins of Error",9.2
+"Ansonia","0900901220","2008-2012","Under 18","Without Health Insurance","Number","Health Insurance",370
+"Ansonia","0900901220","2008-2012","Under 18","Without Health Insurance","Number","Margins of Error",253
+"Ansonia","0900901220","2008-2012","Under 18","Without Health Insurance","Percent","Health Insurance",8.2
+"Ansonia","0900901220","2008-2012","Under 18","Without Health Insurance","Percent","Margins of Error",5.5
+"Ansonia","0900901220","2008-2012","18-64","With Private Health Insurance","Number","Health Insurance",7800
+"Ansonia","0900901220","2008-2012","18-64","With Private Health Insurance","Number","Margins of Error",620
+"Ansonia","0900901220","2008-2012","18-64","With Private Health Insurance","Percent","Health Insurance",65
+"Ansonia","0900901220","2008-2012","18-64","With Private Health Insurance","Percent","Margins of Error",2.9
+"Ansonia","0900901220","2008-2012","18-64","With Public Health Insurance","Number","Health Insurance",2310
+"Ansonia","0900901220","2008-2012","18-64","With Public Health Insurance","Number","Margins of Error",411
+"Ansonia","0900901220","2008-2012","18-64","With Public Health Insurance","Percent","Health Insurance",19.2
+"Ansonia","0900901220","2008-2012","18-64","With Public Health Insurance","Percent","Margins of Error",3.2
+"Ansonia","0900901220","2008-2012","18-64","Without Health Insurance","Number","Health Insurance",2261
+"Ansonia","0900901220","2008-2012","18-64","Without Health Insurance","Number","Margins of Error",423
+"Ansonia","0900901220","2008-2012","18-64","Without Health Insurance","Percent","Health Insurance",18.8
+"Ansonia","0900901220","2008-2012","18-64","Without Health Insurance","Percent","Margins of Error",3.3
+"Ansonia","0900901220","2008-2012","65+","With Private Health Insurance","Number","Health Insurance",1755
+"Ansonia","0900901220","2008-2012","65+","With Private Health Insurance","Number","Margins of Error",252
+"Ansonia","0900901220","2008-2012","65+","With Private Health Insurance","Percent","Health Insurance",67.9
+"Ansonia","0900901220","2008-2012","65+","With Private Health Insurance","Percent","Margins of Error",6.3
+"Ansonia","0900901220","2008-2012","65+","With Public Health Insurance","Number","Health Insurance",2501
+"Ansonia","0900901220","2008-2012","65+","With Public Health Insurance","Number","Margins of Error",278
+"Ansonia","0900901220","2008-2012","65+","With Public Health Insurance","Percent","Health Insurance",96.8
+"Ansonia","0900901220","2008-2012","65+","With Public Health Insurance","Percent","Margins of Error",1.8
+"Ansonia","0900901220","2008-2012","65+","Without Health Insurance","Number","Health Insurance",0
+"Ansonia","0900901220","2008-2012","65+","Without Health Insurance","Number","Margins of Error",38
+"Ansonia","0900901220","2008-2012","65+","Without Health Insurance","Percent","Health Insurance",0
+"Ansonia","0900901220","2008-2012","65+","Without Health Insurance","Percent","Margins of Error",1.5
+"Ansonia","0900901220","2009-2013","All","With Private Health Insurance","Number","Health Insurance",11807
+"Ansonia","0900901220","2009-2013","All","With Private Health Insurance","Number","Margins of Error",751
+"Ansonia","0900901220","2009-2013","All","With Private Health Insurance","Percent","Health Insurance",61.9
+"Ansonia","0900901220","2009-2013","All","With Private Health Insurance","Percent","Margins of Error",3.9
+"Ansonia","0900901220","2009-2013","All","With Public Health Insurance","Number","Health Insurance",7325
+"Ansonia","0900901220","2009-2013","All","With Public Health Insurance","Number","Margins of Error",727
+"Ansonia","0900901220","2009-2013","All","With Public Health Insurance","Percent","Health Insurance",38.4
+"Ansonia","0900901220","2009-2013","All","With Public Health Insurance","Percent","Margins of Error",3.8
+"Ansonia","0900901220","2009-2013","All","Without Health Insurance","Number","Health Insurance",2209
+"Ansonia","0900901220","2009-2013","All","Without Health Insurance","Number","Margins of Error",447
+"Ansonia","0900901220","2009-2013","All","Without Health Insurance","Percent","Health Insurance",11.6
+"Ansonia","0900901220","2009-2013","All","Without Health Insurance","Percent","Margins of Error",2.3
+"Ansonia","0900901220","2009-2013","Under 18","With Private Health Insurance","Number","Health Insurance",2419
+"Ansonia","0900901220","2009-2013","Under 18","With Private Health Insurance","Number","Margins of Error",432
+"Ansonia","0900901220","2009-2013","Under 18","With Private Health Insurance","Percent","Health Insurance",56.1
+"Ansonia","0900901220","2009-2013","Under 18","With Private Health Insurance","Percent","Margins of Error",6.4
+"Ansonia","0900901220","2009-2013","Under 18","With Public Health Insurance","Number","Health Insurance",2058
+"Ansonia","0900901220","2009-2013","Under 18","With Public Health Insurance","Number","Margins of Error",501
+"Ansonia","0900901220","2009-2013","Under 18","With Public Health Insurance","Percent","Health Insurance",47.7
+"Ansonia","0900901220","2009-2013","Under 18","With Public Health Insurance","Percent","Margins of Error",9.6
+"Ansonia","0900901220","2009-2013","Under 18","Without Health Insurance","Number","Health Insurance",126
+"Ansonia","0900901220","2009-2013","Under 18","Without Health Insurance","Number","Margins of Error",96
+"Ansonia","0900901220","2009-2013","Under 18","Without Health Insurance","Percent","Health Insurance",2.9
+"Ansonia","0900901220","2009-2013","Under 18","Without Health Insurance","Percent","Margins of Error",2.2
+"Ansonia","0900901220","2009-2013","18-64","With Private Health Insurance","Number","Health Insurance",7679
+"Ansonia","0900901220","2009-2013","18-64","With Private Health Insurance","Number","Margins of Error",565
+"Ansonia","0900901220","2009-2013","18-64","With Private Health Insurance","Percent","Health Insurance",63.1
+"Ansonia","0900901220","2009-2013","18-64","With Private Health Insurance","Percent","Margins of Error",2.2
+"Ansonia","0900901220","2009-2013","18-64","With Public Health Insurance","Number","Health Insurance",2748
+"Ansonia","0900901220","2009-2013","18-64","With Public Health Insurance","Number","Margins of Error",436
+"Ansonia","0900901220","2009-2013","18-64","With Public Health Insurance","Percent","Health Insurance",22.6
+"Ansonia","0900901220","2009-2013","18-64","With Public Health Insurance","Percent","Margins of Error",3.3
+"Ansonia","0900901220","2009-2013","18-64","Without Health Insurance","Number","Health Insurance",2083
+"Ansonia","0900901220","2009-2013","18-64","Without Health Insurance","Number","Margins of Error",435
+"Ansonia","0900901220","2009-2013","18-64","Without Health Insurance","Percent","Health Insurance",17.1
+"Ansonia","0900901220","2009-2013","18-64","Without Health Insurance","Percent","Margins of Error",3.4
+"Ansonia","0900901220","2009-2013","65+","With Private Health Insurance","Number","Health Insurance",1709
+"Ansonia","0900901220","2009-2013","65+","With Private Health Insurance","Number","Margins of Error",243
+"Ansonia","0900901220","2009-2013","65+","With Private Health Insurance","Percent","Health Insurance",65.7
+"Ansonia","0900901220","2009-2013","65+","With Private Health Insurance","Percent","Margins of Error",5.3
+"Ansonia","0900901220","2009-2013","65+","With Public Health Insurance","Number","Health Insurance",2519
+"Ansonia","0900901220","2009-2013","65+","With Public Health Insurance","Number","Margins of Error",296
+"Ansonia","0900901220","2009-2013","65+","With Public Health Insurance","Percent","Health Insurance",96.8
+"Ansonia","0900901220","2009-2013","65+","With Public Health Insurance","Percent","Margins of Error",1.2
+"Ansonia","0900901220","2009-2013","65+","Without Health Insurance","Number","Health Insurance",0
+"Ansonia","0900901220","2009-2013","65+","Without Health Insurance","Number","Margins of Error",38
+"Ansonia","0900901220","2009-2013","65+","Without Health Insurance","Percent","Health Insurance",0
+"Ansonia","0900901220","2009-2013","65+","Without Health Insurance","Percent","Margins of Error",1.5
+"Ansonia","0900901220","2010-2014","All","With Private Health Insurance","Number","Health Insurance",11607
+"Ansonia","0900901220","2010-2014","All","With Private Health Insurance","Number","Margins of Error",731
+"Ansonia","0900901220","2010-2014","All","With Private Health Insurance","Percent","Health Insurance",61
+"Ansonia","0900901220","2010-2014","All","With Private Health Insurance","Percent","Margins of Error",3.8
+"Ansonia","0900901220","2010-2014","All","With Public Health Insurance","Number","Health Insurance",7735
+"Ansonia","0900901220","2010-2014","All","With Public Health Insurance","Number","Margins of Error",688
+"Ansonia","0900901220","2010-2014","All","With Public Health Insurance","Percent","Health Insurance",40.6
+"Ansonia","0900901220","2010-2014","All","With Public Health Insurance","Percent","Margins of Error",3.6
+"Ansonia","0900901220","2010-2014","All","Without Health Insurance","Number","Health Insurance",1869
+"Ansonia","0900901220","2010-2014","All","Without Health Insurance","Number","Margins of Error",408
+"Ansonia","0900901220","2010-2014","All","Without Health Insurance","Percent","Health Insurance",9.8
+"Ansonia","0900901220","2010-2014","All","Without Health Insurance","Percent","Margins of Error",2.1
+"Ansonia","0900901220","2010-2014","Under 18","With Private Health Insurance","Number","Health Insurance",2422
+"Ansonia","0900901220","2010-2014","Under 18","With Private Health Insurance","Number","Margins of Error",411
+"Ansonia","0900901220","2010-2014","Under 18","With Private Health Insurance","Percent","Health Insurance",55.6
+"Ansonia","0900901220","2010-2014","Under 18","With Private Health Insurance","Percent","Margins of Error",6.6
+"Ansonia","0900901220","2010-2014","Under 18","With Public Health Insurance","Number","Health Insurance",2105
+"Ansonia","0900901220","2010-2014","Under 18","With Public Health Insurance","Number","Margins of Error",418
+"Ansonia","0900901220","2010-2014","Under 18","With Public Health Insurance","Percent","Health Insurance",48.3
+"Ansonia","0900901220","2010-2014","Under 18","With Public Health Insurance","Percent","Margins of Error",7.6
+"Ansonia","0900901220","2010-2014","Under 18","Without Health Insurance","Number","Health Insurance",103
+"Ansonia","0900901220","2010-2014","Under 18","Without Health Insurance","Number","Margins of Error",72
+"Ansonia","0900901220","2010-2014","Under 18","Without Health Insurance","Percent","Health Insurance",2.4
+"Ansonia","0900901220","2010-2014","Under 18","Without Health Insurance","Percent","Margins of Error",1.6
+"Ansonia","0900901220","2010-2014","18-64","With Private Health Insurance","Number","Health Insurance",7644
+"Ansonia","0900901220","2010-2014","18-64","With Private Health Insurance","Number","Margins of Error",555
+"Ansonia","0900901220","2010-2014","18-64","With Private Health Insurance","Percent","Health Insurance",63.3
+"Ansonia","0900901220","2010-2014","18-64","With Private Health Insurance","Percent","Margins of Error",2.4
+"Ansonia","0900901220","2010-2014","18-64","With Public Health Insurance","Number","Health Insurance",3082
+"Ansonia","0900901220","2010-2014","18-64","With Public Health Insurance","Number","Margins of Error",456
+"Ansonia","0900901220","2010-2014","18-64","With Public Health Insurance","Percent","Health Insurance",25.5
+"Ansonia","0900901220","2010-2014","18-64","With Public Health Insurance","Percent","Margins of Error",3.4
+"Ansonia","0900901220","2010-2014","18-64","Without Health Insurance","Number","Health Insurance",1766
+"Ansonia","0900901220","2010-2014","18-64","Without Health Insurance","Number","Margins of Error",399
+"Ansonia","0900901220","2010-2014","18-64","Without Health Insurance","Percent","Health Insurance",14.6
+"Ansonia","0900901220","2010-2014","18-64","Without Health Insurance","Percent","Margins of Error",3.2
+"Ansonia","0900901220","2010-2014","65+","With Private Health Insurance","Number","Health Insurance",1541
+"Ansonia","0900901220","2010-2014","65+","With Private Health Insurance","Number","Margins of Error",239
+"Ansonia","0900901220","2010-2014","65+","With Private Health Insurance","Percent","Health Insurance",59
+"Ansonia","0900901220","2010-2014","65+","With Private Health Insurance","Percent","Margins of Error",5.9
+"Ansonia","0900901220","2010-2014","65+","With Public Health Insurance","Number","Health Insurance",2548
+"Ansonia","0900901220","2010-2014","65+","With Public Health Insurance","Number","Margins of Error",301
+"Ansonia","0900901220","2010-2014","65+","With Public Health Insurance","Percent","Health Insurance",97.5
+"Ansonia","0900901220","2010-2014","65+","With Public Health Insurance","Percent","Margins of Error",0.6
+"Ansonia","0900901220","2010-2014","65+","Without Health Insurance","Number","Health Insurance",0
+"Ansonia","0900901220","2010-2014","65+","Without Health Insurance","Number","Margins of Error",38
+"Ansonia","0900901220","2010-2014","65+","Without Health Insurance","Percent","Health Insurance",0
+"Ansonia","0900901220","2010-2014","65+","Without Health Insurance","Percent","Margins of Error",1.5
+"Ansonia","0900901220","2011-2015","All","With Private Health Insurance","Number","Health Insurance",11498
+"Ansonia","0900901220","2011-2015","All","With Private Health Insurance","Number","Margins of Error",703
+"Ansonia","0900901220","2011-2015","All","With Private Health Insurance","Percent","Health Insurance",60.6
+"Ansonia","0900901220","2011-2015","All","With Private Health Insurance","Percent","Margins of Error",3.7
+"Ansonia","0900901220","2011-2015","All","With Public Health Insurance","Number","Health Insurance",8352
+"Ansonia","0900901220","2011-2015","All","With Public Health Insurance","Number","Margins of Error",696
+"Ansonia","0900901220","2011-2015","All","With Public Health Insurance","Percent","Health Insurance",44.1
+"Ansonia","0900901220","2011-2015","All","With Public Health Insurance","Percent","Margins of Error",3.7
+"Ansonia","0900901220","2011-2015","All","Without Health Insurance","Number","Health Insurance",1411
+"Ansonia","0900901220","2011-2015","All","Without Health Insurance","Number","Margins of Error",316
+"Ansonia","0900901220","2011-2015","All","Without Health Insurance","Percent","Health Insurance",7.4
+"Ansonia","0900901220","2011-2015","All","Without Health Insurance","Percent","Margins of Error",1.7
+"Ansonia","0900901220","2011-2015","Under 18","With Private Health Insurance","Number","Health Insurance",2222
+"Ansonia","0900901220","2011-2015","Under 18","With Private Health Insurance","Number","Margins of Error",384
+"Ansonia","0900901220","2011-2015","Under 18","With Private Health Insurance","Percent","Health Insurance",50.5
+"Ansonia","0900901220","2011-2015","Under 18","With Private Health Insurance","Percent","Margins of Error",10.5
+"Ansonia","0900901220","2011-2015","Under 18","With Public Health Insurance","Number","Health Insurance",2366
+"Ansonia","0900901220","2011-2015","Under 18","With Public Health Insurance","Number","Margins of Error",433
+"Ansonia","0900901220","2011-2015","Under 18","With Public Health Insurance","Percent","Health Insurance",53.8
+"Ansonia","0900901220","2011-2015","Under 18","With Public Health Insurance","Percent","Margins of Error",11.7
+"Ansonia","0900901220","2011-2015","Under 18","Without Health Insurance","Number","Health Insurance",129
+"Ansonia","0900901220","2011-2015","Under 18","Without Health Insurance","Number","Margins of Error",80
+"Ansonia","0900901220","2011-2015","Under 18","Without Health Insurance","Percent","Health Insurance",2.9
+"Ansonia","0900901220","2011-2015","Under 18","Without Health Insurance","Percent","Margins of Error",1.9
+"Ansonia","0900901220","2011-2015","18-64","With Private Health Insurance","Number","Health Insurance",7677
+"Ansonia","0900901220","2011-2015","18-64","With Private Health Insurance","Number","Margins of Error",539
+"Ansonia","0900901220","2011-2015","18-64","With Private Health Insurance","Percent","Health Insurance",64.8
+"Ansonia","0900901220","2011-2015","18-64","With Private Health Insurance","Percent","Margins of Error",6
+"Ansonia","0900901220","2011-2015","18-64","With Public Health Insurance","Number","Health Insurance",3351
+"Ansonia","0900901220","2011-2015","18-64","With Public Health Insurance","Number","Margins of Error",466
+"Ansonia","0900901220","2011-2015","18-64","With Public Health Insurance","Percent","Health Insurance",28.3
+"Ansonia","0900901220","2011-2015","18-64","With Public Health Insurance","Percent","Margins of Error",4.3
+"Ansonia","0900901220","2011-2015","18-64","Without Health Insurance","Number","Health Insurance",1282
+"Ansonia","0900901220","2011-2015","18-64","Without Health Insurance","Number","Margins of Error",303
+"Ansonia","0900901220","2011-2015","18-64","Without Health Insurance","Percent","Health Insurance",10.8
+"Ansonia","0900901220","2011-2015","18-64","Without Health Insurance","Percent","Margins of Error",2.6
+"Ansonia","0900901220","2011-2015","65+","With Private Health Insurance","Number","Health Insurance",1599
+"Ansonia","0900901220","2011-2015","65+","With Private Health Insurance","Number","Margins of Error",237
+"Ansonia","0900901220","2011-2015","65+","With Private Health Insurance","Percent","Health Insurance",59
+"Ansonia","0900901220","2011-2015","65+","With Private Health Insurance","Percent","Margins of Error",10.7
+"Ansonia","0900901220","2011-2015","65+","With Public Health Insurance","Number","Health Insurance",2635
+"Ansonia","0900901220","2011-2015","65+","With Public Health Insurance","Number","Margins of Error",282
+"Ansonia","0900901220","2011-2015","65+","With Public Health Insurance","Percent","Health Insurance",97.2
+"Ansonia","0900901220","2011-2015","65+","With Public Health Insurance","Percent","Margins of Error",14.6
+"Ansonia","0900901220","2011-2015","65+","Without Health Insurance","Number","Health Insurance",0
+"Ansonia","0900901220","2011-2015","65+","Without Health Insurance","Number","Margins of Error",38
+"Ansonia","0900901220","2011-2015","65+","Without Health Insurance","Percent","Health Insurance",0
+"Ansonia","0900901220","2011-2015","65+","Without Health Insurance","Percent","Margins of Error",1.4
+"Ansonia","0900901220","2012-2016","All","With Private Health Insurance","Number","Health Insurance",10840
+"Ansonia","0900901220","2012-2016","All","With Private Health Insurance","Number","Margins of Error",739
+"Ansonia","0900901220","2012-2016","All","With Private Health Insurance","Percent","Health Insurance",57.4
+"Ansonia","0900901220","2012-2016","All","With Private Health Insurance","Percent","Margins of Error",3.9
+"Ansonia","0900901220","2012-2016","All","With Public Health Insurance","Number","Health Insurance",8477
+"Ansonia","0900901220","2012-2016","All","With Public Health Insurance","Number","Margins of Error",759
+"Ansonia","0900901220","2012-2016","All","With Public Health Insurance","Percent","Health Insurance",44.9
+"Ansonia","0900901220","2012-2016","All","With Public Health Insurance","Percent","Margins of Error",4
+"Ansonia","0900901220","2012-2016","All","Without Health Insurance","Number","Health Insurance",1557
+"Ansonia","0900901220","2012-2016","All","Without Health Insurance","Number","Margins of Error",349
+"Ansonia","0900901220","2012-2016","All","Without Health Insurance","Percent","Health Insurance",8.2
+"Ansonia","0900901220","2012-2016","All","Without Health Insurance","Percent","Margins of Error",1.8
+"Ansonia","0900901220","2012-2016","Under 18","With Private Health Insurance","Number","Health Insurance",2127
+"Ansonia","0900901220","2012-2016","Under 18","With Private Health Insurance","Number","Margins of Error",402
+"Ansonia","0900901220","2012-2016","Under 18","With Private Health Insurance","Percent","Health Insurance",50.3
+"Ansonia","0900901220","2012-2016","Under 18","With Private Health Insurance","Percent","Margins of Error",11.6
+"Ansonia","0900901220","2012-2016","Under 18","With Public Health Insurance","Number","Health Insurance",2227
+"Ansonia","0900901220","2012-2016","Under 18","With Public Health Insurance","Number","Margins of Error",478
+"Ansonia","0900901220","2012-2016","Under 18","With Public Health Insurance","Percent","Health Insurance",52.6
+"Ansonia","0900901220","2012-2016","Under 18","With Public Health Insurance","Percent","Margins of Error",13.3
+"Ansonia","0900901220","2012-2016","Under 18","Without Health Insurance","Number","Health Insurance",106
+"Ansonia","0900901220","2012-2016","Under 18","Without Health Insurance","Number","Margins of Error",70
+"Ansonia","0900901220","2012-2016","Under 18","Without Health Insurance","Percent","Health Insurance",2.5
+"Ansonia","0900901220","2012-2016","Under 18","Without Health Insurance","Percent","Margins of Error",1.7
+"Ansonia","0900901220","2012-2016","18-64","With Private Health Insurance","Number","Health Insurance",7185
+"Ansonia","0900901220","2012-2016","18-64","With Private Health Insurance","Number","Margins of Error",577
+"Ansonia","0900901220","2012-2016","18-64","With Private Health Insurance","Percent","Health Insurance",60.2
+"Ansonia","0900901220","2012-2016","18-64","With Private Health Insurance","Percent","Margins of Error",6.2
+"Ansonia","0900901220","2012-2016","18-64","With Public Health Insurance","Number","Health Insurance",3622
+"Ansonia","0900901220","2012-2016","18-64","With Public Health Insurance","Number","Margins of Error",502
+"Ansonia","0900901220","2012-2016","18-64","With Public Health Insurance","Percent","Health Insurance",30.4
+"Ansonia","0900901220","2012-2016","18-64","With Public Health Insurance","Percent","Margins of Error",4.6
+"Ansonia","0900901220","2012-2016","18-64","Without Health Insurance","Number","Health Insurance",1451
+"Ansonia","0900901220","2012-2016","18-64","Without Health Insurance","Number","Margins of Error",339
+"Ansonia","0900901220","2012-2016","18-64","Without Health Insurance","Percent","Health Insurance",12.2
+"Ansonia","0900901220","2012-2016","18-64","Without Health Insurance","Percent","Margins of Error",3
+"Ansonia","0900901220","2012-2016","65+","With Private Health Insurance","Number","Health Insurance",1528
+"Ansonia","0900901220","2012-2016","65+","With Private Health Insurance","Number","Margins of Error",228
+"Ansonia","0900901220","2012-2016","65+","With Private Health Insurance","Percent","Health Insurance",56
+"Ansonia","0900901220","2012-2016","65+","With Private Health Insurance","Percent","Margins of Error",10.5
+"Ansonia","0900901220","2012-2016","65+","With Public Health Insurance","Number","Health Insurance",2628
+"Ansonia","0900901220","2012-2016","65+","With Public Health Insurance","Number","Margins of Error",310
+"Ansonia","0900901220","2012-2016","65+","With Public Health Insurance","Percent","Health Insurance",96.3
+"Ansonia","0900901220","2012-2016","65+","With Public Health Insurance","Percent","Margins of Error",15.8
+"Ansonia","0900901220","2012-2016","65+","Without Health Insurance","Number","Health Insurance",0
+"Ansonia","0900901220","2012-2016","65+","Without Health Insurance","Number","Margins of Error",38
+"Ansonia","0900901220","2012-2016","65+","Without Health Insurance","Percent","Health Insurance",0
+"Ansonia","0900901220","2012-2016","65+","Without Health Insurance","Percent","Margins of Error",1.4
+"Ansonia","0900901220","2013-2017","All","With Private Health Insurance","Number","Health Insurance",11721
+"Ansonia","0900901220","2013-2017","All","With Private Health Insurance","Number","Margins of Error",815
+"Ansonia","0900901220","2013-2017","All","With Private Health Insurance","Percent","Health Insurance",62
+"Ansonia","0900901220","2013-2017","All","With Private Health Insurance","Percent","Margins of Error",4.3
+"Ansonia","0900901220","2013-2017","All","With Public Health Insurance","Number","Health Insurance",8465
+"Ansonia","0900901220","2013-2017","All","With Public Health Insurance","Number","Margins of Error",785
+"Ansonia","0900901220","2013-2017","All","With Public Health Insurance","Percent","Health Insurance",44.8
+"Ansonia","0900901220","2013-2017","All","With Public Health Insurance","Percent","Margins of Error",4.2
+"Ansonia","0900901220","2013-2017","All","Without Health Insurance","Number","Health Insurance",942
+"Ansonia","0900901220","2013-2017","All","Without Health Insurance","Number","Margins of Error",266
+"Ansonia","0900901220","2013-2017","All","Without Health Insurance","Percent","Health Insurance",5
+"Ansonia","0900901220","2013-2017","All","Without Health Insurance","Percent","Margins of Error",1.4
+"Ansonia","0900901220","2013-2017","Under 18","With Private Health Insurance","Number","Health Insurance",2576
+"Ansonia","0900901220","2013-2017","Under 18","With Private Health Insurance","Number","Margins of Error",498
+"Ansonia","0900901220","2013-2017","Under 18","With Private Health Insurance","Percent","Health Insurance",56.1
+"Ansonia","0900901220","2013-2017","Under 18","With Private Health Insurance","Percent","Margins of Error",13.2
+"Ansonia","0900901220","2013-2017","Under 18","With Public Health Insurance","Number","Health Insurance",2235
+"Ansonia","0900901220","2013-2017","Under 18","With Public Health Insurance","Number","Margins of Error",535
+"Ansonia","0900901220","2013-2017","Under 18","With Public Health Insurance","Percent","Health Insurance",48.7
+"Ansonia","0900901220","2013-2017","Under 18","With Public Health Insurance","Percent","Margins of Error",13.4
+"Ansonia","0900901220","2013-2017","Under 18","Without Health Insurance","Number","Health Insurance",79
+"Ansonia","0900901220","2013-2017","Under 18","Without Health Insurance","Number","Margins of Error",56
+"Ansonia","0900901220","2013-2017","Under 18","Without Health Insurance","Percent","Health Insurance",1.7
+"Ansonia","0900901220","2013-2017","Under 18","Without Health Insurance","Percent","Margins of Error",1.2
+"Ansonia","0900901220","2013-2017","18-64","With Private Health Insurance","Number","Health Insurance",7530
+"Ansonia","0900901220","2013-2017","18-64","With Private Health Insurance","Number","Margins of Error",598
+"Ansonia","0900901220","2013-2017","18-64","With Private Health Insurance","Percent","Health Insurance",65.2
+"Ansonia","0900901220","2013-2017","18-64","With Private Health Insurance","Percent","Margins of Error",6.7
+"Ansonia","0900901220","2013-2017","18-64","With Public Health Insurance","Number","Health Insurance",3553
+"Ansonia","0900901220","2013-2017","18-64","With Public Health Insurance","Number","Margins of Error",484
+"Ansonia","0900901220","2013-2017","18-64","With Public Health Insurance","Percent","Health Insurance",30.8
+"Ansonia","0900901220","2013-2017","18-64","With Public Health Insurance","Percent","Margins of Error",4.7
+"Ansonia","0900901220","2013-2017","18-64","Without Health Insurance","Number","Health Insurance",863
+"Ansonia","0900901220","2013-2017","18-64","Without Health Insurance","Number","Margins of Error",257
+"Ansonia","0900901220","2013-2017","18-64","Without Health Insurance","Percent","Health Insurance",7.5
+"Ansonia","0900901220","2013-2017","18-64","Without Health Insurance","Percent","Margins of Error",2.3
+"Ansonia","0900901220","2013-2017","65+","With Private Health Insurance","Number","Health Insurance",1615
+"Ansonia","0900901220","2013-2017","65+","With Private Health Insurance","Number","Margins of Error",243
+"Ansonia","0900901220","2013-2017","65+","With Private Health Insurance","Percent","Health Insurance",58.1
+"Ansonia","0900901220","2013-2017","65+","With Private Health Insurance","Percent","Margins of Error",11
+"Ansonia","0900901220","2013-2017","65+","With Public Health Insurance","Number","Health Insurance",2677
+"Ansonia","0900901220","2013-2017","65+","With Public Health Insurance","Number","Margins of Error",309
+"Ansonia","0900901220","2013-2017","65+","With Public Health Insurance","Percent","Health Insurance",96.2
+"Ansonia","0900901220","2013-2017","65+","With Public Health Insurance","Percent","Margins of Error",15.6
+"Ansonia","0900901220","2013-2017","65+","Without Health Insurance","Number","Health Insurance",0
+"Ansonia","0900901220","2013-2017","65+","Without Health Insurance","Number","Margins of Error",38
+"Ansonia","0900901220","2013-2017","65+","Without Health Insurance","Percent","Health Insurance",0
+"Ansonia","0900901220","2013-2017","65+","Without Health Insurance","Percent","Margins of Error",1.4
+"Ansonia","0900901220","2014-2018","All","With Private Health Insurance","Number","Health Insurance",11449
+"Ansonia","0900901220","2014-2018","All","With Private Health Insurance","Number","Margins of Error",793
+"Ansonia","0900901220","2014-2018","All","With Private Health Insurance","Percent","Health Insurance",60.8
+"Ansonia","0900901220","2014-2018","All","With Private Health Insurance","Percent","Margins of Error",4.2
+"Ansonia","0900901220","2014-2018","All","With Public Health Insurance","Number","Health Insurance",8496
+"Ansonia","0900901220","2014-2018","All","With Public Health Insurance","Number","Margins of Error",751
+"Ansonia","0900901220","2014-2018","All","With Public Health Insurance","Percent","Health Insurance",45.1
+"Ansonia","0900901220","2014-2018","All","With Public Health Insurance","Percent","Margins of Error",4
+"Ansonia","0900901220","2014-2018","All","Without Health Insurance","Number","Health Insurance",1123
+"Ansonia","0900901220","2014-2018","All","Without Health Insurance","Number","Margins of Error",299
+"Ansonia","0900901220","2014-2018","All","Without Health Insurance","Percent","Health Insurance",6
+"Ansonia","0900901220","2014-2018","All","Without Health Insurance","Percent","Margins of Error",1.6
+"Ansonia","0900901220","2014-2018","Under 18","With Private Health Insurance","Number","Health Insurance",2145
+"Ansonia","0900901220","2014-2018","Under 18","With Private Health Insurance","Number","Margins of Error",437
+"Ansonia","0900901220","2014-2018","Under 18","With Private Health Insurance","Percent","Health Insurance",50.2
+"Ansonia","0900901220","2014-2018","Under 18","With Private Health Insurance","Percent","Margins of Error",11.8
+"Ansonia","0900901220","2014-2018","Under 18","With Public Health Insurance","Number","Health Insurance",2120
+"Ansonia","0900901220","2014-2018","Under 18","With Public Health Insurance","Number","Margins of Error",483
+"Ansonia","0900901220","2014-2018","Under 18","With Public Health Insurance","Percent","Health Insurance",49.6
+"Ansonia","0900901220","2014-2018","Under 18","With Public Health Insurance","Percent","Margins of Error",12.7
+"Ansonia","0900901220","2014-2018","Under 18","Without Health Insurance","Number","Health Insurance",148
+"Ansonia","0900901220","2014-2018","Under 18","Without Health Insurance","Number","Margins of Error",81
+"Ansonia"

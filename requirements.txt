@@ -1,0 +1,16 @@
+#Core AI/ML Libraries
+gradio==4.36.0
+pinecone==7.3.0
+huggingface_hub==0.23.3
+transformers==4.42.3
+sentence-transformers==2.7.0
+datasets==2.19.2
+accelerate==0.31.0 
+#Data handling and processing
+pandas
+python-dotenv==1.0.1
+psycopg2-binary==2.9.9 
+scikit-learn==1.5.1
+#Web Framework
+fastapi==0.111.0
+uvicorn==0.30.1 

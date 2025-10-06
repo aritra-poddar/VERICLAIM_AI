@@ -1,0 +1,25 @@
+# Dependencies
+/node_modules
+/.venv
+/__pycache__
+*.pyc
+
+# Environment
+.env
+.DS_Store
+
+# ML/Data
+/data/*.csv
+/data/*.pdf
+/data/*.txt
+# Model Weights (Crucial, unless they are small)
+/backend/ml/fraud/isolation_forest.joblib
+/backend/ml/fraud_model.joblib 
+
+# VS Code
+.vscode/
+
+# Logs and build artifacts
+npm-debug.log*
+yarn-debug.log*
+/frontend/build

@@ -1,0 +1,557 @@
+Town,FIPS,Year,Age Range,Insurance Status,Measure Type,Variable,Value
+Andover,901301080.0,2010-2014,Under 18,With Private Health Insurance,Percent,Health Insurance,84.9
+Andover,901301080.0,2009-2013,18-64,Without Health Insurance,Percent,Health Insurance,6.1
+Andover,901301080.0,2009-2013,All,With Private Health Insurance,Percent,Margins of Error,6.3
+Andover,901301080.0,2012-2016,18-64,With Private Health Insurance,Percent,Health Insurance,92.2
+Ansonia,900901220.0,2011-2015,18-64,With Public Health Insurance,Number,Margins of Error,466.0
+Ansonia,900901220.0,2009-2013,Under 18,With Public Health Insurance,Number,Margins of Error,501.0
+Ansonia,900901220.0,2013-2017,Under 18,With Private Health Insurance,Number,Health Insurance,2576.0
+Andover,901301080.0,2014-2018,65+,With Private Health Insurance,Percent,Health Insurance,74.8
+Ansonia,900901220.0,2011-2015,All,Without Health Insurance,Number,Margins of Error,316.0
+Andover,901301080.0,2008-2012,Under 18,With Public Health Insurance,Percent,Health Insurance,12.9
+Andover,901301080.0,2014-2018,All,With Public Health Insurance,Percent,Health Insurance,20.7
+Ansonia,900901220.0,2014-2018,All,With Private Health Insurance,Percent,Health Insurance,60.8
+Ansonia,900901220.0,2013-2017,Under 18,With Private Health Insurance,Number,Margins of Error,498.0
+Ansonia,900901220.0,2012-2016,65+,With Private Health Insurance,Number,Margins of Error,228.0
+Andover,901301080.0,2009-2013,Under 18,With Private Health Insurance,Number,Margins of Error,112.0
+Ansonia,900901220.0,2010-2014,18-64,Without Health Insurance,Number,Health Insurance,1766.0
+Ansonia,900901220.0,2008-2012,Under 18,With Private Health Insurance,Percent,Health Insurance,50.9
+Andover,901301080.0,2008-2012,18-64,With Public Health Insurance,Number,Margins of Error,59.0
+Andover,901301080.0,2011-2015,65+,With Private Health Insurance,Number,Margins of Error,98.0
+Ansonia,900901220.0,2010-2014,65+,With Private Health Insurance,Number,Health Insurance,1541.0
+Ansonia,900901220.0,2011-2015,All,With Public Health Insurance,Percent,Margins of Error,3.7
+Andover,901301080.0,2014-2018,65+,With Private Health Insurance,Percent,Margins of Error,21.7
+Ansonia,900901220.0,2009-2013,All,With Private Health Insurance,Percent,Health Insurance,61.9
+Ansonia,900901220.0,2008-2012,Under 18,Without Health Insurance,Number,Health Insurance,370.0
+Andover,901301080.0,2015-2019,65+,Without Health Insurance,Percent,Health Insurance,0.0
+Andover,901301080.0,2015-2019,All,With Public Health Insurance,Number,Health Insurance,675.0
+Andover,901301080.0,2014-2018,Under 18,With Public Health Insurance,Percent,Health Insurance,12.2
+Ansonia,900901220.0,2008-2012,65+,Without Health Insurance,Number,Health Insurance,0.0
+Ansonia,900901220.0,2010-2014,18-64,With Private Health Insurance,Percent,Health Insurance,63.3
+Andover,901301080.0,2015-2019,18-64,With Private Health Insurance,Number,Health Insurance,1810.0
+Andover,901301080.0,2012-2016,Under 18,Without Health Insurance,Percent,Margins of Error,3.8
+Ansonia,900901220.0,2013-2017,All,Without Health Insurance,Percent,Health Insurance,5.0
+Ansonia,900901220.0,2008-2012,All,Without Health Insurance,Number,Margins of Error,494.0
+Andover,901301080.0,2011-2015,18-64,With Public Health Insurance,Percent,Health Insurance,8.9
+Ansonia,900901220.0,2013-2017,18-64,With Private Health Insurance,Percent,Margins of Error,6.7
+Andover,901301080.0,2011-2015,Under 18,With Public Health Insurance,Percent,Margins of Error,11.3
+Andover,901301080.0,2013-2017,65+,Without Health Insurance,Number,Health Insurance,0.0
+Ansonia,900901220.0,2012-2016,18-64,Without Health Insurance,Number,Health Insurance,1451.0
+Ansonia,900901220.0,2014-2018,Under 18,Without Health Insurance,Number,Margins of Error,81.0
+Ansonia,900901220.0,2012-2016,18-64,With Public Health Insurance,Number,Health Insurance,3622.0
+Andover,901301080.0,2013-2017,18-64,Without Health Insurance,Percent,Margins of Error,2.8
+Ansonia,900901220.0,2008-2012,Under 18,Without Health Insurance,Number,Margins of Error,253.0
+Andover,901301080.0,2010-2014,All,Without Health Insurance,Number,Health Insurance,137.0
+Andover,901301080.0,2010-2014,Under 18,With Public Health Insurance,Percent,Health Insurance,15.6
+Ansonia,900901220.0,2012-2016,65+,Without Health Insurance,Percent,Margins of Error,1.4
+Andover,901301080.0,2012-2016,Under 18,With Public Health Insurance,Number,Health Insurance,65.0
+Andover,901301080.0,2013-2017,Under 18,Without Health Insurance,Number,Health Insurance,0.0
+Andover,901301080.0,2009-2013,65+,Without Health Insurance,Number,Health Insurance,0.0
+Andover,901301080.0,2008-2012,All,With Public Health Insurance,Percent,Margins of Error,3.7
+Andover,901301080.0,2009-2013,65+,With Public Health Insurance,Number,Margins of Error,83.0
+Ansonia,900901220.0,2010-2014,65+,Without Health Insurance,Number,Margins of Error,38.0
+Andover,901301080.0,2015-2019,65+,With Public Health Insurance,Number,Margins of Error,81.0
+Ansonia,900901220.0,2010-2014,65+,With Private Health Insurance,Percent,Health Insurance,59.0
+Ansonia,900901220.0,2008-2012,Under 18,With Private Health Insurance,Percent,Margins of Error,4.8
+Andover,901301080.0,2015-2019,18-64,With Private Health Insurance,Number,Margins of Error,211.0
+Andover,901301080.0,2012-2016,Under 18,With Private Health Insurance,Number,Health Insurance,586.0
+Andover,901301080.0,2010-2014,65+,Without Health Insurance,Number,Health Insurance,0.0
+Andover,901301080.0,2008-2012,18-64,With Public Health Insurance,Number,Health Insurance,134.0
+Andover,901301080.0,2008-2012,65+,With Public Health Insurance,Percent,Margins of Error,30.5
+Andover,901301080.0,2008-2012,65+,With Public Health Insurance,Percent,Health Insurance,83.8
+Andover,901301080.0,2009-2013,18-64,With Private Health Insurance,Number,Margins of Error,177.0
+Andover,901301080.0,2011-2015,Under 18,Without Health Insurance,Percent,Margins of Error,3.5
+Andover,901301080.0,2012-2016,Under 18,With Public Health Insurance,Number,Margins of Error,46.0
+Ansonia,900901220.0,2012-2016,18-64,With Public Health Insurance,Percent,Health Insurance,30.4
+Andover,901301080.0,2009-2013,Under 18,With Public Health Insurance,Percent,Health Insurance,16.8
+Andover,901301080.0,2008-2012,All,Without Health Insurance,Percent,Margins of Error,2.9
+Ansonia,900901220.0,2010-2014,Under 18,With Private Health Insurance,Number,Margins of Error,411.0
+Ansonia,900901220.0,2013-2017,Under 18,With Public Health Insurance,Percent,Health Insurance,48.7
+Andover,901301080.0,2011-2015,18-64,Without Health Insurance,Percent,Health Insurance,4.4
+Andover,901301080.0,2013-2017,18-64,With Private Health Insurance,Number,Margins of Error,194.0
+Andover,901301080.0,2015-2019,Under 18,With Public Health Insurance,Percent,Margins of Error,8.3
+Ansonia,900901220.0,2010-2014,Under 18,Without Health Insurance,Number,Health Insurance,103.0
+Andover,901301080.0,2014-2018,All,With Private Health Insurance,Number,Margins of Error,276.0
+Ansonia,900901220.0,2008-2012,18-64,Without Health Insurance,Number,Margins of Error,423.0
+Andover,901301080.0,2011-2015,18-64,Without Health Insurance,Number,Margins of Error,63.0
+Ansonia,900901220.0,2009-2013,Under 18,Without Health Insurance,Number,Margins of Error,96.0
+Ansonia,900901220.0,2011-2015,All,With Private Health Insurance,Percent,Margins of Error,3.7
+Andover,901301080.0,2009-2013,18-64,Without Health Insurance,Percent,Margins of Error,3.8
+Ansonia,900901220.0,2011-2015,65+,With Private Health Insurance,Percent,Margins of Error,10.7
+Andover,901301080.0,2015-2019,Under 18,With Public Health Insurance,Number,Health Insurance,88.0
+Ansonia,900901220.0,2009-2013,18-64,With Private Health Insurance,Number,Margins of Error,565.0
+Andover,901301080.0,2009-2013,18-64,With Public Health Insurance,Percent,Margins of Error,3.7
+Andover,901301080.0,2008-2012,Under 18,Without Health Insurance,Percent,Margins of Error,3.1
+Andover,901301080.0,2008-2012,Under 18,With Private Health Insurance,Percent,Margins of Error,5.8
+Ansonia,900901220.0,2012-2016,Under 18,With Public Health Insurance,Percent,Health Insurance,52.6
+Andover,901301080.0,2012-2016,65+,With Public Health Insurance,Percent,Health Insurance,98.2
+Ansonia,900901220.0,2013-2017,18-64,With Private Health Insurance,Number,Margins of Error,598.0
+Andover,901301080.0,2013-2017,18-64,With Public Health Insurance,Percent,Margins of Error,3.5
+Ansonia,900901220.0,2010-2014,Under 18,With Private Health Insurance,Percent,Health Insurance,55.6
+Andover,901301080.0,2013-2017,65+,Without Health Insurance,Percent,Health Insurance,0.0
+Andover,901301080.0,2010-2014,65+,With Public Health Insurance,Number,Margins of Error,78.0
+Andover,901301080.0,2015-2019,Under 18,With Private Health Insurance,Number,Margins of Error,160.0
+Andover,901301080.0,2014-2018,65+,With Public Health Insurance,Number,Health Insurance,396.0
+Andover,901301080.0,2008-2012,18-64,Without Health Insurance,Number,Margins of Error,85.0
+Ansonia,900901220.0,2008-2012,65+,Without Health Insurance,Number,Margins of Error,38.0
+Andover,901301080.0,2015-2019,Under 18,With Public Health Insurance,Percent,Health Insurance,11.9
+Andover,901301080.0,2008-2012,All,Without Health Insurance,Number,Margins of Error,91.0
+Andover,901301080.0,2008-2012,Under 18,Without Health Insurance,Percent,Health Insurance,0.0
+Andover,901301080.0,2015-2019,18-64,With Private Health Insurance,Percent,Margins of Error,14.3
+Andover,901301080.0,2012-2016,18-64,With Public Health Insurance,Number,Margins of Error,64.0
+Ansonia,900901220.0,2009-2013,65+,Without Health Insurance,Number,Margins of Error,38.0
+Ansonia,900901220.0,2014-2018,All,Without Health Insurance,Number,Health Insurance,1123.0
+Andover,901301080.0,2014-2018,65+,Without Health Insurance,Number,Health Insurance,0.0
+Andover,901301080.0,2009-2013,65+,With Private Health Insurance,Number,Health Insurance,297.0
+Andover,901301080.0,2014-2018,65+,Without Health Insurance,Number,Margins of Error,24.0
+Andover,901301080.0,2014-2018,65+,Without Health Insurance,Percent,Health Insurance,0.0
+Ansonia,900901220.0,2012-2016,All,With Private Health Insurance,Percent,Health Insurance,57.4
+Andover,901301080.0,2013-2017,Under 18,With Public Health Insurance,Percent,Margins of Error,7.2
+Andover,901301080.0,2012-2016,All,Without Health Insurance,Percent,Margins of Error,2.0
+Andover,901301080.0,2012-2016,All,With Public Health Insurance,Number,Health Insurance,635.0
+Ansonia,900901220.0,2013-2017,18-64,Without Health Insurance,Number,Health Insurance,863.0
+Andover,901301080.0,2014-2018,Under 18,Without Health Insurance,Percent,Health Insurance,0.0
+Ansonia,900901220.0,2008-2012,Under 18,With Private Health Insurance,Number,Health Insurance,2304.0
+Andover,901301080.0,2009-2013,65+,Without Health Insurance,Number,Margins of Error,24.0
+Ansonia,900901220.0,2011-2015,65+,With Public Health Insurance,Percent,Health Insurance,97.2
+Andover,901301080.0,2014-2018,All,With Public Health Insurance,Number,Health Insurance,666.0
+Andover,901301080.0,2014-2018,Under 18,With Private Health Insurance,Number,Health Insurance,687.0
+Ansonia,900901220.0,2014-2018,All,Without Health Insurance,Number,Margins of Error,299.0
+Andover,901301080.0,2011-2015,65+,With Public Health Insurance,Number,Health Insurance,481.0
+Ansonia,900901220.0,2011-2015,18-64,With Public Health Insurance,Percent,Health Insurance,28.3
+Andover,901301080.0,2014-2018,All,With Private Health Insurance,Percent,Margins of Error,9.2
+Andover,901301080.0,2011-2015,All,Without Health Insurance,Number,Margins of Error,72.0
+Andover,901301080.0,2009-2013,18-64,With Private Health Insurance,Percent,Margins of Error,3.3
+Ansonia,900901220.0,2011-2015,65+,Without Health Insurance,Number,Health Insurance,0.0
+Andover,901301080.0,2009-2013,Under 18,Without Health Insurance,Number,Health Insurance,0.0
+Ansonia,900901220.0,2011-2015,Under 18,With Public Health Insurance,Number,Margins of Error,433.0
+Andover,901301080.0,2011-2015,65+,Without Health Insurance,Number,Health Insurance,0.0
+Andover,901301080.0,2012-2016,65+,Without Health Insurance,Number,Health Insurance,0.0
+Andover,901301080.0,2009-2013,65+,With Public Health Insurance,Number,Health Insurance,335.0
+Ansonia,900901220.0,2012-2016,All,Without Health Insurance,Percent,Health Insurance,8.2
+Andover,901301080.0,2010-2014,Under 18,Without Health Insurance,Number,Margins of Error,24.0
+Andover,901301080.0,2010-2014,18-64,With Public Health Insurance,Number,Margins of Error,69.0
+Ansonia,900901220.0,2011-2015,65+,With Public Health Insurance,Number,Health Insurance,2635.0
+Andover,901301080.0,2012-2016,65+,Without Health Insurance,Percent,Health Insurance,0.0
+Andover,901301080.0,2008-2012,All,With Private Health Insurance,Number,Health Insurance,2776.0
+Ansonia,900901220.0,2014-2018,Under 18,With Private Health Insurance,Percent,Margins of Error,11.8
+Andover,901301080.0,2013-2017,65+,With Public Health Insurance,Number,Margins of Error,83.0
+Ansonia,900901220.0,2011-2015,Under 18,Without Health Insurance,Percent,Health Insurance,2.9
+Ansonia,900901220.0,2008-2012,65+,Without Health Insurance,Percent,Health Insurance,0.0
+Andover,901301080.0,2013-2017,65+,With Private Health Insurance,Percent,Health Insurance,82.4
+Andover,901301080.0,2010-2014,Under 18,Without Health Insurance,Number,Health Insurance,0.0
+Andover,901301080.0,2012-2016,65+,With Private Health Insurance,Number,Health Insurance,320.0
+Ansonia,900901220.0,2009-2013,65+,Without Health Insurance,Percent,Margins of Error,1.5
+Ansonia,900901220.0,2011-2015,All,Without Health Insurance,Percent,Margins of Error,1.7
+Andover,901301080.0,2013-2017,18-64,Without Health Insurance,Percent,Health Insurance,3.2
+Ansonia,900901220.0,2009-2013,All,With Public Health Insurance,Percent,Margins of Error,3.8
+Andover,901301080.0,2011-2015,All,With Private Health Insurance,Number,Health Insurance,2779.0
+Ansonia,900901220.0,2012-2016,18-64,Without Health Insurance,Percent,Margins of Error,3.0
+Ansonia,900901220.0,2011-2015,18-64,With Private Health Insurance,Number,Health Insurance,7677.0
+Ansonia,900901220.0,2013-2017,All,With Private Health Insurance,Percent,Margins of Error,4.3
+Ansonia,900901220.0,2011-2015,All,With Public Health Insurance,Number,Health Insurance,8352.0
+Andover,901301080.0,2013-2017,18-64,With Public Health Insurance,Number,Health Insurance,178.0
+Ansonia,900901220.0,2009-2013,18-64,With Public Health Insurance,Percent,Health Insurance,22.6
+Andover,901301080.0,2008-2012,65+,Without Health Insurance,Percent,Health Insurance,0.0
+Andover,901301080.0,2013-2017,Under 18,Without Health Insurance,Number,Margins of Error,24.0
+Andover,901301080.0,2012-2016,All,With Private Health Insurance,Percent,Margins of Error,8.8
+Ansonia,,,,,,,
+Ansonia,900901220.0,2012-2016,All,With Private Health Insurance,Percent,Margins of Error,3.9
+Andover,901301080.0,2010-2014,All,Without Health Insurance,Percent,Margins of Error,2.8
+Ansonia,900901220.0,2013-2017,65+,Without Health Insurance,Number,Health Insurance,0.0
+Ansonia,900901220.0,2010-2014,65+,With Private Health Insurance,Number,Margins of Error,239.0
+Andover,901301080.0,2014-2018,18-64,Without Health Insurance,Number,Margins of Error,59.0
+Andover,901301080.0,2010-2014,All,With Public Health Insurance,Number,Health Insurance,656.0
+Ansonia,900901220.0,2011-2015,65+,Without Health Insurance,Percent,Margins of Error,1.4
+Ansonia,900901220.0,2012-2016,65+,Without Health Insurance,Number,Health Insurance,0.0
+Andover,901301080.0,2014-2018,65+,With Public Health Insurance,Percent,Margins of Error,25.4
+Andover,901301080.0,2011-2015,18-64,Without Health Insurance,Percent,Margins of Error,3.2
+Andover,901301080.0,2014-2018,Under 18,With Public Health Insurance,Number,Health Insurance,91.0
+Ansonia,900901220.0,2011-2015,Under 18,Without Health Insurance,Percent,Margins of Error,1.9
+Andover,901301080.0,2011-2015,All,With Public Health Insurance,Number,Margins of Error,146.0
+Andover,901301080.0,2010-2014,18-64,With Public Health Insurance,Number,Health Insurance,195.0
+Ansonia,900901220.0,2011-2015,Under 18,Without Health Insurance,Number,Health Insurance,129.0
+Ansonia,900901220.0,2012-2016,18-64,With Private Health Insurance,Number,Margins of Error,577.0
+Andover,901301080.0,2011-2015,65+,With Public Health Insurance,Number,Margins of Error,105.0
+Ansonia,900901220.0,2008-2012,65+,With Public Health Insurance,Number,Margins of Error,278.0
+Ansonia,900901220.0,2013-2017,18-64,Without Health Insurance,Number,Margins of Error,257.0
+Ansonia,900901220.0,2014-2018,Under 18,With Private Health Insurance,Number,Margins of Error,437.0
+Andover,901301080.0,2015-2019,All,With Public Health Insurance,Percent,Health Insurance,21.1
+Ansonia,900901220.0,2013-2017,Under 18,With Public Health Insurance,Number,Health Insurance,2235.0
+Andover,901301080.0,2010-2014,65+,Without Health Insurance,Percent,Health Insurance,0.0
+Andover,901301080.0,2010-2014,65+,Without Health Insurance,Number,Margins of Error,24.0
+Ansonia,900901220.0,2008-2012,All,With Public Health Insurance,Percent,Health Insurance,36.0
+Andover,901301080.0,2014-2018,18-64,Without Health Insurance,Number,Health Insurance,56.0
+Andover,901301080.0,2008-2012,Under 18,With Public Health Insurance,Percent,Margins of Error,8.9
+Andover,901301080.0,2011-2015,18-64,With Public Health Insurance,Number,Health Insurance,176.0
+Ansonia,900901220.0,2013-2017,18-64,Without Health Insurance,Percent,Health Insurance,7.5
+Andover,901301080.0,2014-2018,18-64,With Private Health Insurance,Number,Health Insurance,1897.0
+Ansonia,900901220.0,2013-2017,18-64,With Public Health Insurance,Number,Health Insurance,3553.0
+Andover,901301080.0,2008-2012,Under 18,With Private Health Insurance,Number,Health Insurance,685.0
+Andover,901301080.0,2014-2018,Under 18,With Public Health Insurance,Number,Margins of Error,57.0
+Andover,901301080.0,2008-2012,18-64,With Private Health Insurance,Number,Margins of Error,184.0
+Ansonia,900901220.0,2010-2014,18-64,Without Health Insurance,Percent,Margins of Error,3.2
+Andover,901301080.0,2011-2015,18-64,With Private Health Insurance,Number,Margins of Error,212.0
+Ansonia,900901220.0,2013-2017,65+,With Private Health Insurance,Number,Health Insurance,1615.0
+Ansonia,900901220.0,2008-2012,18-64,With Private Health Insurance,Number,Health Insurance,7800.0
+Andover,901301080.0,2013-2017,All,With Public Health Insurance,Number,Margins of Error,120.0
+Andover,901301080.0,2014-2018,All,Without Health Insurance,Percent,Health Insurance,1.7
+Ansonia,900901220.0,2008-2012,65+,Without Health Insurance,Percent,Margins of Error,1.5
+Andover,901301080.0,2013-2017,18-64,Without Health Insurance,Number,Health Insurance,65.0
+Andover,901301080.0,2011-2015,All,Without Health Insurance,Percent,Health Insurance,2.7
+Andover,901301080.0,2010-2014,18-64,With Public Health Insurance,Percent,Health Insurance,9.7
+Ansonia,900901220.0,2009-2013,65+,With Private Health Insurance,Number,Health Insurance,1709.0
+Andover,901301080.0,2015-2019,All,With Public Health Insurance,Number,Margins of Error,118.0
+Andover,901301080.0,2013-2017,65+,Without Health Insurance,Percent,Margins of Error,6.1
+Andover,901301080.0,2010-2014,Under 18,With Public Health Insurance,Number,Margins of Error,72.0
+Ansonia,900901220.0,2009-2013,All,With Private Health Insurance,Number,Health Insurance,11807.0
+Andover,901301080.0,2011-2015,18-64,With Public Health Insurance,Number,Margins of Error,69.0
+Andover,901301080.0,2015-2019,Under 18,With Public Health Insurance,Number,Margins of Error,58.0
+Andover,901301080.0,2009-2013,All,Without Health Insurance,Number,Margins of Error,81.0
+Ansonia,900901220.0,2009-2013,65+,With Private Health Insurance,Percent,Health Insurance,65.7
+Andover,901301080.0,2012-2016,18-64,With Public Health Insurance,Percent,Health Insurance,8.3
+Andover,901301080.0,2013-2017,65+,With Public Health Insurance,Number,Health Insurance,385.0
+Andover,901301080.0,2008-2012,Under 18,With Public Health Insurance,Number,Margins of Error,71.0
+Ansonia,900901220.0,2010-2014,All,With Public Health Insurance,Percent,Health Insurance,40.6
+Andover,901301080.0,2014-2018,18-64,Without Health Insurance,Percent,Health Insurance,2.7
+Andover,901301080.0,2013-2017,Under 18,With Private Health Insurance,Percent,Margins of Error,25.1
+Ansonia,900901220.0,2009-2013,18-64,Without Health Insurance,Percent,Margins of Error,3.4
+Ansonia,900901220.0,2013-2017,65+,With Public Health Insurance,Number,Margins of Error,309.0
+Andover,901301080.0,2011-2015,65+,Without Health Insurance,Percent,Health Insurance,0.0
+Ansonia,900901220.0,2009-2013,All,With Public Health Insurance,Number,Health Insurance,7325.0
+Ansonia,900901220.0,2012-2016,65+,With Private Health Insurance,Number,Health Insurance,1528.0
+Ansonia,900901220.0,2014-2018,All,Without Health Insurance,Percent,Margins of Error,1.6
+Andover,901301080.0,2009-2013,65+,Without Health Insurance,Percent,Health Insurance,0.0
+Andover,901301080.0,2011-2015,65+,With Private Health Insurance,Number,Health Insurance,403.0
+Andover,901301080.0,2014-2018,Under 18,With Private Health Insurance,Number,Margins of Error,160.0
+Ansonia,900901220.0,2008-2012,65+,With Public Health Insurance,Number,Health Insurance,2501.0
+Ansonia,900901220.0,2010-2014,18-64,With Private Health Insurance,Percent,Margins of Error,2.4
+Ansonia,900901220.0,2009-2013,Under 18,With Public Health Insurance,Percent,Margins of Error,9.6
+Ansonia,900901220.0,2009-2013,Under 18,With Public Health Insurance,Number,Health Insurance,2058.0
+Ansonia,900901220.0,2008-2012,65+,With Public Health Insurance,Percent,Health Insurance,96.8
+Andover,901301080.0,2008-2012,All,With Public Health Insurance,Number,Margins of Error,122.0
+Andover,901301080.0,2008-2012,65+,Without Health Insurance,Number,Margins of Error,24.0
+Ansonia,900901220.0,2008-2012,All,Without Health Insurance,Percent,Margins of Error,2.6
+Ansonia,900901220.0,2010-2014,65+,With Public Health Insurance,Percent,Health Insurance,97.5
+Andover,901301080.0,2011-2015,18-64,With Private Health Insurance,Percent,Margins of Error,15.0
+Andover,901301080.0,2008-2012,Under 18,With Public Health Insurance,Number,Health Insurance,100.0
+Andover,901301080.0,2009-2013,All,With Private Health Insurance,Number,Health Insurance,2640.0
+Ansonia,900901220.0,2013-2017,65+,Without Health Insurance,Percent,Margins of Error,1.4
+Ansonia,900901220.0,2013-2017,All,Without Health Insurance,Percent,Margins of Error,1.4
+Andover,901301080.0,2008-2012,All,With Private Health Insurance,Percent,Margins of Error,6.5
+Ansonia,900901220.0,2009-2013,Under 18,With Private Health Insurance,Percent,Health Insurance,56.1
+Ansonia,900901220.0,2008-2012,18-64,With Private Health Insurance,Number,Margins of Error,620.0
+Andover,901301080.0,2014-2018,18-64,With Public Health Insurance,Number,Health Insurance,179.0
+Ansonia,900901220.0,2013-2017,Under 18,With Private Health Insurance,Percent,Margins of Error,13.2
+Andover,901301080.0,2013-2017,65+,With Public Health Insurance,Percent,Margins of Error,29.7
+Ansonia,900901220.0,2012-2016,Under 18,Without Health Insurance,Percent,Margins of Error,1.7
+Andover,901301080.0,2013-2017,65+,Without Health Insurance,Number,Margins of Error,24.0
+Ansonia,900901220.0,2011-2015,65+,With Public Health Insurance,Number,Margins of Error,282.0
+Andover,901301080.0,2012-2016,18-64,Without Health Insurance,Number,Margins of Error,53.0
+Andover,901301080.0,2008-2012,18-64,With Private Health Insurance,Percent,Health Insurance,89.5
+Ansonia,900901220.0,2011-2015,Under 18,With Public Health Insurance,Number,Health Insurance,2366.0
+Andover,901301080.0,2013-2017,Under 18,Without Health Insurance,Percent,Margins of Error,3.2
+Andover,901301080.0,2009-2013,All,With Private Health Insurance,Percent,Health Insurance,85.3
+Andover,901301080.0,2015-2019,18-64,With Public Health Insurance,Number,Health Insurance,142.0
+Andover,901301080.0,2012-2016,65+,With Private Health Insurance,Number,Margins of Error,75.0
+Andover,901301080.0,2008-2012,65+,With Private Health Insurance,Number,Margins of Error,85.0
+Andover,901301080.0,2011-2015,Under 18,With Private Health Insurance,Number,Margins of Error,111.0
+Andover,901301080.0,2012-2016,65+,Without Health Insurance,Number,Margins of Error,24.0
+Ansonia,900901220.0,2013-2017,65+,With Public Health Insurance,Percent,Health Insurance,96.2
+Andover,901301080.0,2015-2019,65+,With Private Health Insurance,Percent,Health Insurance,75.2
+Andover,901301080.0,2015-2019,18-64,Without Health Insurance,Percent,Health Insurance,5.1
+Andover,901301080.0,2011-2015,18-64,With Public Health Insurance,Percent,Margins of Error,3.6
+Ansonia,900901220.0,2012-2016,All,Without Health Insurance,Percent,Margins of Error,1.8
+Ansonia,900901220.0,2013-2017,All,With Private Health Insurance,Percent,Health Insurance,62.0
+Ansonia,900901220.0,2014-2018,All,With Public Health Insurance,Number,Margins of Error,751.0
+Andover,901301080.0,2012-2016,All,With Private Health Insurance,Percent,Health Insurance,90.9
+Ansonia,900901220.0,2012-2016,Under 18,With Private Health Insurance,Number,Margins of Error,402.0
+Ansonia,900901220.0,2012-2016,Under 18,Without Health Insurance,Number,Margins of Error,70.0
+Ansonia,900901220.0,2008-2012,65+,With Private Health Insurance,Percent,Health Insurance,67.9
+Ansonia,900901220.0,2010-2014,All,Without Health Insurance,Number,Health Insurance,1869.0
+Ansonia,900901220.0,2009-2013,Under 18,With Private Health Insurance,Number,Margins of Error,432.0
+Ansonia,900901220.0,2013-2017,65+,Without Health Insurance,Percent,Health Insurance,0.0
+Ansonia,900901220.0,2012-2016,All,With Private Health Insurance,Number,Health Insurance,10840.0
+Ansonia,900901220.0,2012-2016,Under 18,With Public Health Insurance,Percent,Margins of Error,13.3
+Andover,901301080.0,2009-2013,Under 18,With Public Health Insurance,Percent,Margins of Error,10.0
+Ansonia,900901220.0,2010-2014,18-64,Without Health Insurance,Percent,Health Insurance,14.6
+Andover,901301080.0,2011-2015,18-64,With Private Health Insurance,Number,Health Insurance,1788.0
+Ansonia,900901220.0,2009-2013,Under 18,With Private Health Insurance,Number,Health Insurance,2419.0
+Andover,901301080.0,2011-2015,Under 18,With Public Health Insurance,Percent,Health Insurance,16.5
+Andover,901301080.0,2014-2018,Under 18,Without Health Insurance,Number,Margins of Error,24.0
+Andover,901301080.0,2012-2016,All,With Private Health Insurance,Number,Margins of Error,247.0
+Ansonia,900901220.0,2014-2018,All,With Public Health Insurance,Percent,Margins of Error,4.0
+Andover,901301080.0,2015-2019,18-64,With Public Health Insurance,Number,Margins of Error,63.0
+Andover,901301080.0,2015-2019,65+,Without Health Insurance,Percent,Margins of Error,5.3
+Ansonia,900901220.0,2013-2017,All,With Private Health Insurance,Number,Margins of Error,815.0
+Ansonia,900901220.0,2012-2016,18-64,Without Health Insurance,Percent,Health Insurance,12.2
+Andover,901301080.0,2011-2015,All,Without Health Insurance,Number,Health Insurance,87.0
+Ansonia,900901220.0,2009-2013,Under 18,With Private Health Insurance,Percent,Margins of Error,6.4
+Ansonia,900901220.0,2011-2015,65+,With Public Health Insurance,Percent,Margins of Error,14.6
+Andover,901301080.0,2012-2016,18-64,Without Health Insurance,Percent,Health Insurance,2.9
+Ansonia,900901220.0,2013-2017,Under 18,With Private Health Insurance,Percent,Health Insurance,56.1
+Ansonia,900901220.0,2011-2015,18-64,With Private Health Insurance,Percent,Health Insurance,64.8
+Andover,901301080.0,2010-2014,All,With Public Health Insurance,Percent,Margins of Error,3.9
+Ansonia,900901220.0,2008-2012,65+,With Private Health Insurance,Number,Margins of Error,252.0
+Ansonia,900901220.0,2010-2014,All,With Public Health Insurance,Percent,Margins of Error,3.6
+Ansonia,900901220.0,2013-2017,All,Without Health Insurance,Number,Health Insurance,942.0
+Andover,901301080.0,2009-2013,18-64,With Private Health Insurance,Percent,Health Insurance,88.0
+Andover,901301080.0,2010-2014,Under 18,With Public Health Insurance,Percent,Margins of Error,9.3
+Ansonia,900901220.0,2008-2012,Under 18,Without Health Insurance,Percent,Margins of Error,5.5
+Ansonia,900901220.0,2013-2017,65+,Without Health Insurance,Number,Margins of Error,38.0
+Andover,901301080.0,2010-2014,Under 18,Without Health Insurance,Percent,Margins of Error,3.2
+Andover,901301080.0,2009-2013,All,With Public Health Insurance,Number,Margins of Error,137.0
+Andover,901301080.0,2011-2015,All,With Public Health Insurance,Percent,Margins of Error,4.7
+Ansonia,900901220.0,2008-2012,Under 18,With Public Health Insurance,Percent,Margins of Error,9.2
+Ansonia,900901220.0,2013-2017,18-64,With Public Health Insurance,Percent,Health Insurance,30.8
+Andover,901301080.0,2012-2016,Under 18,With Private Health Insurance,Percent,Margins of Error,24.0
+Ansonia,900901220.0,2011-2015,Under 18,With Private Health Insurance,Number,Margins of Error,384.0
+Ansonia,900901220.0,2010-2014,All,With Private Health Insurance,Percent,Margins of Error,3.8
+Ansonia,900901220.0,2009-2013,18-64,Without Health Insurance,Number,Margins of Error,435.0
+Ansonia,900901220.0,2011-2015,All,With Public Health Insurance,Percent,Health Insurance,44.1
+Andover,901301080.0,2008-2012,All,Without Health Insurance,Number,Health Insurance,130.0
+Ansonia,900901220.0,2013-2017,65+,With Public Health Insurance,Number,Health Insurance,2677.0
+Andover,901301080.0,2008-2012,65+,With Private Health Insurance,Number,Health Insurance,270.0
+Ansonia,900901220.0,2009-2013,Under 18,Without Health Insurance,Number,Health Insurance,126.0
+Andover,901301080.0,2010-2014,65+,With Public Health Insurance,Percent,Margins of Error,28.8
+Andover,901301080.0,2013-2017,Under 18,With Private Health Insurance,Number,Margins of Error,139.0
+Andover,901301080.0,2014-2018,Under 18,With Private Health Insurance,Percent,Margins of Error,29.5
+Ansonia,900901220.0,2012-2016,18-64,With Public Health Insurance,Number,Margins of Error,502.0
+Ansonia,900901220.0,2010-2014,65+,With Public Health Insurance,Percent,Margins of Error,0.6
+Andover,901301080.0,2015-2019,18-64,Without Health Insurance,Number,Health Insurance,103.0
+Andover,901301080.0,2009-2013,All,Without Health Insurance,Percent,Margins of Error,2.6
+Andover,901301080.0,2010-2014,Under 18,With Private Health Insurance,Percent,Margins of Error,4.8
+Ansonia,900901220.0,2010-2014,All,With Public Health Insurance,Number,Margins of Error,688.0
+Ansonia,900901220.0,2010-2014,Under 18,With Public Health Insurance,Percent,Margins of Error,7.6
+Ansonia,900901220.0,2012-2016,Under 18,With Public Health Insurance,Number,Margins of Error,478.0
+Andover,901301080.0,2013-2017,Under 18,Without Health Insurance,Percent,Health Insurance,0.0
+Ansonia,900901220.0,2012-2016,All,With Public Health Insurance,Percent,Health Insurance,44.9
+Andover,901301080.0,2014-2018,All,Without Health Insurance,Number,Margins of Error,68.0
+Ansonia,900901220.0,2008-2012,18-64,With Public Health Insurance,Percent,Health Insurance,19.2
+Andover,901301080.0,2011-2015,All,With Public Health Insurance,Percent,Health Insurance,24.0
+Ansonia,900901220.0,2009-2013,All,With Private Health Insurance,Number,Margins of Error,751.0
+Ansonia,900901220.0,2009-2013,All,Without Health Insurance,Number,Health Insurance,2209.0
+Andover,901301080.0,2013-2017,18-64,With Private Health Insurance,Percent,Health Insurance,91.4
+Ansonia,900901220.0,2012-2016,18-64,With Private Health Insurance,Percent,Margins of Error,6.2
+Andover,901301080.0,2015-2019,Under 18,Without Health Insurance,Percent,Margins of Error,3.2
+Ansonia,900901220.0,2012-2016,65+,With Private Health Insurance,Percent,Margins of Error,10.5
+Andover,901301080.0,2008-2012,65+,With Private Health Insurance,Percent,Health Insurance,71.8
+Andover,901301080.0,2010-2014,18-64,With Public Health Insurance,Percent,Margins of Error,3.3
+Ansonia,900901220.0,2008-2012,65+,With Private Health Insurance,Percent,Margins of Error,6.3
+Ansonia,900901220.0,2008-2012,18-64,Without Health Insurance,Number,Health Insurance,2261.0
+Andover,901301080.0,2014-2018,Under 18,With Public Health Insurance,Percent,Margins of Error,8.1
+Andover,901301080.0,2012-2016,All,With Public Health Insurance,Percent,Health Insurance,19.8
+Andover,901301080.0,2015-2019,Under 18,With Private Health Insurance,Percent,Margins of Error,29.7
+Ansonia,900901220.0,2010-2014,All,Without Health Insurance,Percent,Health Insurance,9.8
+Andover,901301080.0,2011-2015,All,With Private Health Insurance,Percent,Health Insurance,86.4
+Ansonia,900901220.0,2009-2013,Under 18,With Public Health Insurance,Percent,Health Insurance,47.7
+Ansonia,900901220.0,2013-2017,Under 18,With Public Health Insurance,Percent,Margins of Error,13.4
+Ansonia,900901220.0,2010-2014,65+,With Private Health Insurance,Percent,Margins of Error,5.9
+Ansonia,900901220.0,2008-2012,18-64,Without Health Insurance,Percent,Margins of Error,3.3
+Ansonia,900901220.0,2009-2013,All,Without Health Insurance,Percent,Health Insurance,11.6
+Ansonia,900901220.0,2012-2016,65+,With Public Health Insurance,Number,Margins of Error,310.0
+Andover,901301080.0,2011-2015,All,With Private Health Insurance,Percent,Margins of Error,9.2
+Ansonia,900901220.0,2011-2015,Under 18,With Private Health Insurance,Percent,Margins of Error,10.5
+Andover,901301080.0,2015-2019,Under 18,With Private Health Insurance,Number,Health Insurance,684.0
+Ansonia,900901220.0,2009-2013,18-64,With Public Health Insurance,Percent,Margins of Error,3.3
+Andover,901301080.0,2014-2018,65+,With Private Health Insurance,Number,Margins of Error,68.0
+Andover,901301080.0,2011-2015,65+,With Public Health Insurance,Percent,Health Insurance,88.4
+Andover,901301080.0,2010-2014,18-64,With Private Health Insurance,Percent,Margins of Error,3.4
+Ansonia,900901220.0,2012-2016,Under 18,With Private Health Insurance,Number,Health Insurance,2127.0
+Andover,901301080.0,2010-2014,All,With Private Health Insurance,Number,Health Insurance,2705.0
+Andover,901301080.0,2010-2014,65+,Without Health Insurance,Percent,Margins of Error,5.7
+Andover,901301080.0,2012-2016,65+,Without Health Insurance,Percent,Margins of Error,6.1
+Ansonia,900901220.0,2008-2012,All,Without Health Insurance,Percent,Health Insurance,13.8
+Ansonia,900901220.0,2009-2013,65+,With Private Health Insurance,Number,Margins of Error,243.0
+Andover,901301080.0,2012-2016,All,With Public Health Insurance,Number,Margins of Error,109.0
+Andover,901301080.0,2010-2014,All,With Private Health Insurance,Number,Margins of Error,250.0
+Andover,901301080.0,2015-2019,18-64,Without Health Insurance,Percent,Margins of Error,3.5
+Andover,901301080.0,2014-2018,65+,With Private Health Insurance,Number,Health Insurance,303.0
+Andover,901301080.0,2013-2017,65+,With Private Health Insurance,Percent,Margins of Error,26.7
+Andover,901301080.0,2014-2018,All,With Public Health Insurance,Number,Margins of Error,117.0
+Andover,901301080.0,2013-2017,Under 18,With Private Health Insurance,Percent,Health Insurance,92.3
+Ansonia,900901220.0,2008-2012,Under 18,With Public Health Insurance,Number,Health Insurance,2072.0
+Andover,901301080.0,2010-2014,18-64,With Private Health Insurance,Percent,Health Insurance,87.4
+Andover,901301080.0,2011-2015,65+,With Private Health Insurance,Percent,Margins of Error,23.9
+Andover,901301080.0,2012-2016,All,Without Health Insurance,Percent,Health Insurance,2.0
+Ansonia,900901220.0,2009-2013,All,With Public Health Insurance,Percent,Health Insurance,38.4
+Andover,901301080.0,2013-2017,All,With Public Health Insurance,Percent,Health Insurance,20.3
+Ansonia,900901220.0,2008-2012,18-64,With Public Health Insurance,Percent,Margins of Error,3.2
+Ansonia,900901220.0,2014-2018,Under 18,With Public Health Insurance,Number,Health Insurance,2120.0
+Andover,901301080.0,2010-2014,18-64,Without Health Insurance,Number,Margins of Error,82.0
+Ansonia,900901220.0,2008-2012,Under 18,With Public Health Insurance,Percent,Health Insurance,45.8
+Ansonia,900901220.0,2012-2016,All,With Public Health Insurance,Number,Margins of Error,759.0
+Ansonia,900901220.0,2011-2015,All,Without Health Insurance,Percent,Health Insurance,7.4
+Andover,901301080.0,2012-2016,18-64,With Private Health Insurance,Percent,Margins of Error,13.2
+Ansonia,900901220.0,2013-2017,All,With Public Health Insurance,Percent,Health Insurance,44.8
+Ansonia,900901220.0,2010-2014,65+,Without Health Insurance,Percent,Health Insurance,0.0
+Ansonia,900901220.0,2013-2017,All,Without Health Insurance,Number,Margins of Error,266.0
+Ansonia,900901220.0,2011-2015,All,With Public Health Insurance,Number,Margins of Error,696.0
+Ansonia,900901220.0,2008-2012,All,With Private Health Insurance,Percent,Health Insurance,62.1
+Ansonia,900901220.0,2014-2018,All,With Private Health Insurance,Number,Health Insurance,11449.0
+Ansonia,900901220.0,2010-2014,18-64,With Public Health Insurance,Number,Margins of Error,456.0
+Andover,901301080.0,2013-2017,18-64,With Private Health Insurance,Percent,Margins of Error,13.1
+Ansonia,900901220.0,2009-2013,All,Without Health Insurance,Number,Margins of Error,447.0
+Ansonia,900901220.0,2010-2014,Under 18,With Public Health Insurance,Number,Health Insurance,2105.0
+Andover,901301080.0,2010-2014,Under 18,With Public Health Insurance,Number,Health Insurance,116.0
+Andover,901301080.0,2012-2016,65+,With Public Health Insurance,Number,Health Insurance,389.0
+Ansonia,900901220.0,2012-2016,18-64,With Private Health Insurance,Percent,Health Insurance,60.2
+Andover,901301080.0,2015-2019,65+,With Private Health Insurance,Number,Margins of Error,75.0
+Andover,901301080.0,2012-2016,65+,With Public Health Insurance,Number,Margins of Error,76.0
+Ansonia,900901220.0,2011-2015,Under 18,With Public Health Insurance,Percent,Margins of Error,11.7
+Andover,901301080.0,2014-2018,18-64,With Public Health Insurance,Number,Margins of Error,70.0
+Ansonia,900901220.0,2008-2012,18-64,With Private Health Insurance,Percent,Health Insurance,65.0
+Ansonia,900901220.0,2012-2016,65+,With Public Health Insurance,Percent,Margins of Error,15.8
+Andover,901301080.0,2015-2019,Under 18,Without Health Insurance,Percent,Health Insurance,0.0
+Andover,901301080.0,2013-2017,Under 18,With Public Health Insurance,Percent,Health Insurance,10.8
+Andover,901301080.0,2013-2017,65+,With Public Health Insurance,Percent,Health Insurance,98.2
+Andover,901301080.0,2015-2019,65+,With Public Health Insurance,Number,Health Insurance,445.0
+Ansonia,900901220.0,2008-2012,All,With Private Health Insurance,Number,Health Insurance,11859.0
+Andover,901301080.0,2012-2016,18-64,Without Health Insurance,Number,Health Insurance,63.0
+Ansonia,900901220.0,2013-2017,18-64,Without Health Insurance,Percent,Margins of Error,2.3
+Ansonia,900901220.0,2013-2017,All,With Public Health Insurance,Number,Health Insurance,8465.0
+Ansonia,900901220.0,2009-2013,65+,With Public Health Insurance,Number,Health Insurance,2519.0
+Andover,901301080.0,2015-2019,All,Without Health Insurance,Percent,Margins of Error,2.4
+Ansonia,900901220.0,2010-2014,18-64,With Private Health Insurance,Number,Margins of Error,555.0
+Ansonia,900901220.0,2014-2018,Under 18,With Private Health Insurance,Number,Health Insurance,2145.0
+Ansonia,900901220.0,2013-2017,Under 18,With Public Health Insurance,Number,Margins of Error,535.0
+Ansonia,900901220.0,2013-2017,All,With Private Health Insurance,Number,Health Insurance,11721.0
+Ansonia,900901220.0,2012-2016,Under 18,With Private Health Insurance,Percent,Health Insurance,50.3
+Ansonia,900901220.0,2011-2015,18-64,With Public Health Insurance,Number,Health Insurance,3351.0
+Andover,901301080.0,2009-2013,65+,With Private Health Insurance,Number,Margins of Error,99.0
+Andover,901301080.0,2013-2017,All,With Private Health Insurance,Percent,Health Insurance,90.5
+Andover,901301080.0,2011-2015,Under 18,With Private Health Insurance,Percent,Margins of Error,23.0
+Ansonia,900901220.0,2010-2014,65+,Without Health Insurance,Number,Health Insurance,0.0
+Andover,901301080.0,2008-2012,18-64,Without Health Insurance,Percent,Margins of Error,4.1
+Ansonia,900901220.0,2011-2015,Under 18,With Private Health Insurance,Number,Health Insurance,2222.0
+Andover,901301080.0,2011-2015,18-64,With Private Health Insurance,Percent,Health Insurance,90.1
+Ansonia,900901220.0,2012-2016,Under 18,Without Health Insurance,Percent,Health Insurance,2.5
+Ansonia,900901220.0,2012-2016,All,Without Health Insurance,Number,Health Insurance,1557.0
+Ansonia,900901220.0,2013-2017,18-64,With Public Health Insurance,Number,Margins of Error,484.0
+Andover,901301080.0,2009-2013,65+,Without Health Insurance,Percent,Margins of Error,6.0
+Ansonia,900901220.0,2011-2015,18-64,Without Health Insurance,Percent,Margins of Error,2.6
+Andover,901301080.0,2013-2017,All,With Private Health Insurance,Number,Health Insurance,2878.0
+Ansonia,900901220.0,2009-2013,18-64,With Public Health Insurance,Number,Health Insurance,2748.0
+Ansonia,900901220.0,2011-2015,18-64,With Private Health Insurance,Number,Margins of Error,539.0
+Ansonia,900901220.0,2012-2016,18-64,With Public Health Insurance,Percent,Margins of Error,4.6
+Andover,901301080.0,2012-2016,Under 18,With Private Health Insurance,Percent,Health Insurance,92.9
+Ansonia,900901220.0,2008-2012,All,Without Health Insurance,Number,Health Insurance,2631.0
+Ansonia,900901220.0,2008-2012,Under 18,With Private Health Insurance,Number,Margins of Error,395.0
+Ansonia,900901220.0,2012-2016,All,Without Health Insurance,Number,Margins of Error,349.0
+Andover,901301080.0,2012-2016,18-64,With Private Health Insurance,Number,Margins of Error,207.0
+Andover,901301080.0,2008-2012,All,With Public Health Insurance,Number,Health Insurance,549.0
+Ansonia,900901220.0,2012-2016,65+,With Public Health Insurance,Percent,Health Insurance,96.3
+Ansonia,900901220.0,2011-2015,Under 18,With Public Health Insurance,Percent,Health Insurance,53.8
+Andover,901301080.0,2010-2014,All,With Private Health Insurance,Percent,Health Insurance,85.0
+Ansonia,900901220.0,2011-2015,65+,Without Health Insurance,Number,Margins of Error,38.0
+Ansonia,900901220.0,2008-2012,Under 18,Without Health Insurance,Percent,Health Insurance,8.2
+Ansonia,900901220.0,2010-2014,Under 18,Without Health Insurance,Percent,Health Insurance,2.4
+Andover,901301080.0,2008-2012,65+,Without Health Insurance,Percent,Margins of Error,6.4
+Andover,901301080.0,2008-2012,18-64,Without Health Insurance,Number,Health Insurance,130.0
+Andover,901301080.0,2012-2016,All,Without Health Insurance,Number,Health Insurance,63.0
+Andover,901301080.0,2010-2014,65+,With Private Health Insurance,Percent,Health Insurance,73.8
+Andover,901301080.0,2008-2012,18-64,With Private Health Insurance,Percent,Margins of Error,1.1
+Ansonia,900901220.0,2012-2016,18-64,Without Health Insurance,Number,Margins of Error,339.0
+Andover,901301080.0,2012-2016,65+,With Private Health Insurance,Percent,Health Insurance,80.8
+Ansonia,900901220.0,2010-2014,All,Without Health Insurance,Number,Margins of Error,408.0
+Andover,901301080.0,2015-2019,65+,With Public Health Insurance,Percent,Health Insurance,97.8
+Andover,901301080.0,2014-2018,All,With Private Health Insurance,Number,Health Insurance,2887.0
+Ansonia,900901220.0,2008-2012,18-64,Without Health Insurance,Percent,Health Insurance,18.8
+Ansonia,900901220.0,2008-2012,All,With Public Health Insurance,Percent,Margins of Error,3.7
+Ansonia,900901220.0,2012-2016,Under 18,With Public Health Insurance,Number,Health Insurance,2227.0
+Ansonia,900901220.0,2010-2014,Under 18,With Public Health Insurance,Percent,Health Insurance,48.3
+Andover,901301080.0,2010-2014,65+,With Public Health Insurance,Percent,Health Insurance,81.4
+Andover,901301080.0,2009-2013,Under 18,With Private Health Insurance,Percent,Health Insurance,84.6
+Ansonia,900901220.0,2009-2013,65+,With Private Health Insurance,Percent,Margins of Error,5.3
+Andover,901301080.0,2010-2014,18-64,Without Health Insurance,Number,Health Insurance,137.0
+Ansonia,900901220.0,2014-2018,All,With Private Health Insurance,Percent,Margins of Error,4.2
+Ansonia,900901220.0,2010-2014,65+,With Public Health Insurance,Number,Health Insurance,2548.0
+Andover,901301080.0,2009-2013,Under 18,With Public Health Insurance,Number,Health Insurance,127.0
+Andover,901301080.0,2008-2012,Under 18,With Private Health Insurance,Percent,Health Insurance,88.4
+Andover,901301080.0,2011-2015,Under 18,With Private Health Insurance,Number,Health Insurance,588.0
+Andover,901301080.0,2008-2012,65+,With Public Health Insurance,Number,Health Insurance,315.0
+Ansonia,900901220.0,2010-2014,Under 18,With Private Health Insurance,Number,Health Insurance,2422.0
+Andover,901301080.0,2015-2019,65+,With Public Health Insurance,Percent,Margins of Error,24.9
+Andover,901301080.0,2011-2015,65+,With Public Health Insurance,Percent,Margins of Error,26.8
+Andover,901301080.0,2012-2016,18-64,With Private Health Insurance,Number,Health Insurance,2014.0
+Andover,901301080.0,2009-2013,All,With Public Health Insurance,Number,Health Insurance,657.0
+Andover,901301080.0,2015-2019,All,With Private Health Insurance,Number,Margins of Error,275.0
+Andover,901301080.0,2014-2018,All,With Public Health Insurance,Percent,Margins of Error,3.7
+Andover,901301080.0,2013-2017,All,Without Health Insurance,Percent,Margins of Error,2.1
+Ansonia,900901220.0,2009-2013,18-64,With Public Health Insurance,Number,Margins of Error,436.0
+Ansonia,900901220.0,2009-2013,Under 18,Without Health Insurance,Percent,Margins of Error,2.2
+Ansonia,900901220.0,2014-2018,Under 18,Without Health Insurance,Number,Health Insurance,148.0
+Andover,901301080.0,2013-2017,18-64,With Public Health Insurance,Number,Margins of Error,69.0
+Andover,901301080.0,2012-2016,All,Without Health Insurance,Number,Margins of Error,63.0
+Andover,901301080.0,2011-2015,Under 18,With Public Health Insurance,Number,Margins of Error,75.0
+Ansonia,900901220.0,2011-2015,18-64,With Private Health Insurance,Percent,Margins of Error,6.0
+Ansonia,900901220.0,2008-2012,Under 18,With Public Health Insurance,Number,Margins of Error,510.0
+Ansonia,900901220.0,2009-2013,65+,Without Health Insurance,Number,Health Insurance,0.0
+Andover,901301080.0,2010-2014,All,Without Health Insurance,Number,Margins of Error,89.0
+Ansonia,900901220.0,2011-2015,65+,With Private Health Insurance,Number,Margins of Error,237.0
+Ansonia,900901220.0,2008-2012,All,With Public Health Insurance,Number,Margins of Error,712.0
+Andover,901301080.0,2008-2012,All,With Private Health Insurance,Number,Margins of Error,243.0
+Ansonia,900901220.0,2013-2017,18-64,With Private Health Insurance,Number,Health Insurance,7530.0
+Ansonia,900901220.0,2011-2015,18-64,Without Health Insurance,Number,Margins of Error,303.0
+Andover,901301080.0,2009-2013,18-64,Without Health Insurance,Number,Health Insurance,118.0
+Andover,901301080.0,2012-2016,Under 18,With Private Health Insurance,Number,Margins of Error,111.0
+Andover,901301080.0,2008-2012,18-64,Without Health Insurance,Percent,Health Insurance,6.4
+Ansonia,900901220.0,2010-2014,18-64,With Public Health Insurance,Number,Health Insurance,3082.0
+Ansonia,900901220.0,2008-2012,65+,With Public Health Insurance,Percent,Margins of Error,1.8
+Ansonia,900901220.0,2009-2013,Under 18,Without Health Insurance,Percent,Health Insurance,2.9
+Andover,901301080.0,2015-2019,18-64,With Public Health Insurance,Percent,Health Insurance,7.1
+Andover,901301080.0,2009-2013,65+,With Public Health Insurance,Percent,Margins of Error,31.5
+Andover,901301080.0,2015-2019,All,With Private Health Insurance,Percent,Margins of Error,9.3
+Ansonia,900901220.0,2011-2015,65+,With Private Health Insurance,Number,Health Insurance,1599.0
+Andover,901301080.0,2015-2019,All,Without Health Insurance,Number,Margins of Error,77.0
+Andover,901301080.0,2013-2017,All,With Private Health Insurance,Number,Margins of Error,251.0
+Andover,901301080.0,2008-2012,Under 18,With Private Health Insurance,Number,Margins of Error,134.0
+Andover,901301080.0,2014-2018,18-64,With Private Health Insurance,Percent,Margins of Error,14.3
+Ansonia,900901220.0,2012-2016,18-64,With Private Health Insurance,Number,Health Insurance,7185.0
+Ansonia,900901220.0,2008-2012,All,With Private Health Insurance,Percent,Margins of Error,4.1
+Andover,901301080.0,2013-2017,18-64,Without Health Insurance,Number,Margins of Error,57.0
+Andover,901301080.0,2011-2015,Under 18,Without Health Insurance,Percent,Health Insurance,0.0
+Ansonia,900901220.0,2014-2018,Under 18,With Public Health Insurance,Number,Margins of Error,483.0
+Ansonia,900901220.0,2013-2017,Under 18,Without Health Insurance,Percent,Health Insurance,1.7
+Ansonia,900901220.0,2010-2014,All,With Public Health Insurance,Number,Health Insurance,7735.0
+Ansonia,900901220.0,2014-2018,All,With Public Health Insurance,Percent,Health Insurance,45.1
+Ansonia,900901220.0,2010-2014,18-64,With Private Health Insurance,Number,Health Insurance,7644.0
+Andover,901301080.0,2013-2017,All,With Private Health Insurance,Percent,Margins of Error,8.8
+Ansonia,900901220.0,2011-2015,65+,With Private Health Insurance,Percent,Health Insurance,59.0
+Ansonia,900901220.0,2011-2015,18-64,Without Health Insurance,Percent,Health Insurance,10.8
+Andover,901301080.0,2011-2015,65+,Without Health Insurance,Number,Margins of Error,24.0
+Ansonia,900901220.0,2009-2013,65+,With Public Health Insurance,Percent,Margins of Error,1.2
+Ansonia,900901220.0,2010-2014,18-64,With Public Health Insurance,Percent,Health Insurance,25.5
+Andover,901301080.0,2009-2013,All,Without Health Insurance,Percent,Health Insurance,3.8
+Ansonia,900901220.0,2009-2013,65+,With Public Health Insurance,Percent,Health Insurance,96.8
+Ansonia,900901220.0,2011-2015,18-64,Without Health Insurance,Number,Health Insurance,1282.0
+Andover,901301080.0,2013-2017,Under 18,With Private Health Insurance,Number,Health Insurance,699.0
+Andover,901301080.0,2008-2012,Under 18,Without Health Insurance,Number,Margins of Error,24.0
+Andover,901301080.0,2014-2018,18-64,With Private Health Insurance,Number,Margins of Error,214.0
+Ansonia,900901220.0,2009-2013,18-64,With Private Health Insurance,Percent,Margins of Error,2.2
+Andover,901301080.0,2011-2015,Under 18,With Public Health Insurance,Number,Health Insurance,114.0
+Andover,901301080.0,2013-2017,65+,With Private Health Insurance,Number,Health Insurance,323.0
+Andover,901301080.0,2011-2015,65+,Without Health Insurance,Percent,Margins of Error,4.4
+Ansonia,900901220.0,2008-2012,All,With Private Health Insurance,Number,Margins of Error,777.0
+Ansonia,900901220.0,2008-2012,18-64,With Public Health Insurance,Number,Margins of Error,411.0
+Ansonia,900901220.0,2010-2014,All,Without Health Insurance,Percent,Margins of Error,2.1
+Andover,901301080.0,2015-2019,All,With Public Health Insurance,Percent,Margins of Error,3.8
+Andover,901301080.0,2014-2018,Under 18,Without Health Insurance,Number,Health Insurance,0.0
+Ansonia,900901220.0,2013-2017,65+,With Private Health Insurance,Number,Margins of Error,243.0
+Andover,901301080.0,2010-2014,18-64,Without Health Insurance,Percent,Health Insurance,6.8
+Ansonia,900901220.0,2013-2017,65+,With Private Health Insurance,Percent,Margins of Error,11.0
+Andover,901301080.0,2010-2014,All,With Private Health Insurance,Percent,Margins of Error,6.8
+Andover,901301080.0,2015-2019,65+,With Private Health Insurance,Number,Health Insurance,342.0
+Andover,901301080.0,2009-2013,65+,With Private Health Insurance,Percent,Margins of Error,12.9
+Ansonia,900901220.0,2009-2013,18-64,With Private Health Insurance,Percent,Health Insurance,63.1
+Andover,901301080.0,2014-2018,65+,With Public Health Insurance,Percent,Health Insurance,97.8
+Andover,901301080.0,2012-2016,Under 18,Without Health Insurance,Percent,Health Insurance,0.0
+Ansonia,900901220.0,2009-2013,18-64,Without Health Insurance,Percent,Health Insurance,17.1
+Andover,901301080.0,2010-2014,18-64,With Private Health Insurance,Number,Margins of Error,198.0
+Ansonia,900901220.0,2012-2016,65+,With Private Health Insurance,Percent,Health Insurance,56.0
+Andover,901301080.0,2008-2012,Under 18,Without Health Insurance,Number,Health Insurance,0.0
+Andover,901301080.0,2009-2013,Under 18,Without Health Insurance,Percent,Margins of Error,3.2
+Andover,901301080.0,2010-2014,All,Without Health Insurance,Percent,Health Insurance,4.3
+Andover,901301080.0,2013-2017,18-64,With Public Health Insurance,Percent,Health Insurance,8.8
+Ansonia,900901220.0,2009-2013,All,With Private Health Insurance,Percent,Margins of Error,3.9
+Andover,901301080.0,2010-2014,All,With Public Health Insurance,Percent,Health Insurance,20.6
