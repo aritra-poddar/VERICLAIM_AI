@@ -116,8 +116,8 @@ VeriClaim contributes to **trustworthy and efficient insurance ecosystems** by:
 <>br
 
 ## 🧑‍💻 Contributors
-[**Aritra Poddar**](https://github.com/aritra-poddar)
-[**Aaditya Gupta**](https://github.com/aadityaguptaaa)
+[**Aritra Poddar**](https://github.com/aritra-poddar) <br>
+[**Aaditya Gupta**](https://github.com/aadityaguptaaa) 
 B.Tech (CSE) — AI & Full Stack Developer  
 
 
