@@ -11,7 +11,7 @@ It provides **instant, explainable decisions** — helping insurers, hospitals, 
 
 Insurance claim validation is often time-consuming and vulnerable to human oversight. **VeriClaim** addresses this by leveraging **semantic embeddings**, **anomaly detection**, and **intelligent reasoning** to automate claim eligibility assessment.
 
-This platform combines a **Python FastAPI backend**, a **React-based frontend**, and **ML-powered policy analysis**, resulting in a highly responsive and transparent decision-making system.
+This platform combines a **Python FastAPI backend**, a **React-based frontend**, and **ML & Gen AI-powered policy analysis**, resulting in a highly responsive and transparent decision-making system.
 
 <br>
 
