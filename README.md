@@ -1,7 +1,11 @@
 # 🛡️ VERICLAIM_AI
+<<<<<<< HEAD
 
 An intelligent full-stack, AI-driven insurance claim evaluation platform integrating a FastAPI backend with a React TypeScript frontend, leveraging Hugging Face Transformers and the Gemma LLM. The system interprets policy clauses and customer inputs to automatically determine claim outcomes — Approved or Rejected — while providing detailed explanations and estimated settlement values.
+=======
+>>>>>>> 888c77830e4aaef3448de44bdfad190e408cbff9
 
+An intelligent full-stack, AI-driven insurance claim evaluation platform integrating a FastAPI backend with a React TypeScript frontend, leveraging Hugging Face Transformers and the Gemma LLM. The system interprets policy clauses and customer inputs to automatically determine claim outcomes — Approved or Rejected — while providing detailed explanations and estimated settlement values.
 ## 🚀 Features
 
 ### Backend Features
@@ -75,7 +79,11 @@ An intelligent full-stack, AI-driven insurance claim evaluation platform integra
 1. **Clone the repository**:
 
 ```bash
+<<<<<<< HEAD
 git clone
+=======
+git clone 
+>>>>>>> 888c77830e4aaef3448de44bdfad190e408cbff9
 cd VERICLAIM_AI
 ```
 
@@ -335,6 +343,7 @@ npm run build
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
+<<<<<<< HEAD
 ## 🎯 Key Benefits
 
 - ⚡ **Rapid Turnaround**: Accelerates claim processing from days to just minutes
@@ -345,3 +354,17 @@ npm run build
 - 😊 **Easy to Use**: Intuitive interface for both technical and non-technical users
 
 **Built with ❤️ for the future of Insurance technology**
+=======
+
+
+## 🎯 Key Benefits
+
+- ⚡ **Rapid Turnaround**: Accelerates claim processing from days to just minutes  
+- 🎯 **Higher Precision**: AI-driven evaluation minimizes manual errors in decision-making  
+- 💰 **Operational Efficiency**: Reduces costs by automating repetitive claim workflows  
+- 📈 **Highly Scalable**: Adapts easily to growing claim volumes without additional staffing  
+- 🔎 **Explainable AI**: Provides transparent and auditable reasoning for every decision  
+- 😊 **Easy to Use**: Intuitive interface for both technical and non-technical users  
+
+**Built with ❤️ for the future of Insurance technology** 
+>>>>>>> 888c77830e4aaef3448de44bdfad190e408cbff9
