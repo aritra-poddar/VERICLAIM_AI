@@ -1,10 +1,11 @@
-# 🛡️ Insurance AI Agent
+# 🛡️ VERICLAIM_AI
 
-An intelligent full-stack insurance claim decision-making system that combines **FastAPI** backend with **React TypeScript** frontend, powered by **Hugging Face Transformers** and **Gemma LLM**. This AI agent analyzes insurance clauses and customer queries to predict whether a claim should be **Approved** or **Rejected**, along with justification and estimated amounts.
+An intelligent full-stack, AI-driven insurance claim evaluation platform integrating a FastAPI backend with a React TypeScript frontend, leveraging Hugging Face Transformers and the Gemma LLM. The system interprets policy clauses and customer inputs to automatically determine claim outcomes — Approved or Rejected — while providing detailed explanations and estimated settlement values.
 
 ## 🚀 Features
 
 ### Backend Features
+
 - ✨ Uses **llama-3.3-70b-versatile** large language model
 - 📑 Parses PDF policy documents using `PyMuPDF`
 - 🤖 Uses NLP to analyze **user queries** against **insurance clauses**
@@ -13,6 +14,7 @@ An intelligent full-stack insurance claim decision-making system that combines *
 - ⚡ Fast API backend with clean REST endpoints
 
 ### Frontend Features
+
 - 🎨 Modern React UI built with **TypeScript**, **Tailwind CSS**, and **ShadCN UI**
 - 📤 Drag-and-drop PDF upload functionality
 - 💬 Interactive query interface for claim analysis
@@ -21,16 +23,19 @@ An intelligent full-stack insurance claim decision-making system that combines *
 
 ## 🧠 How It Works
 
-1. **PDF Document Upload & Processing**: 
+1. **PDF Document Upload & Processing**:
+
    - Users upload insurance policy documents via the React frontend
    - The backend parses PDFs using `PyMuPDF` and extracts relevant clauses
    - Clauses are indexed using **FAISS** for efficient similarity search
 
 2. **User Query Processing**:
-   - Users submit natural language queries like: *"I underwent surgery after 14 months of policy"*
+
+   - Users submit natural language queries like: _"I underwent surgery after 14 months of policy"_
    - The system retrieves the most relevant clauses using vector similarity
 
 3. **AI-Powered Decision Making**:
+
    - Query and matched clauses are processed by the **llama-3.3-70b-versatile** using Groq
    - The model returns structured JSON output with decision, amount, and justification
 
@@ -41,6 +46,7 @@ An intelligent full-stack insurance claim decision-making system that combines *
 ## 🛠️ Tech Stack
 
 ### Backend
+
 - **FastAPI** - High-performance web framework
 - **Hugging Face Transformers** - LLM integration
 - **PyMuPDF** - PDF parsing
@@ -50,6 +56,7 @@ An intelligent full-stack insurance claim decision-making system that combines *
 - **Groq** - Ultra-fast LLM inference platform
 
 ### Frontend
+
 - **React** with **TypeScript** - Component-based UI
 - **Tailwind CSS** - Utility-first styling
 - **ShadCN UI** - Modern component library
@@ -58,6 +65,7 @@ An intelligent full-stack insurance claim decision-making system that combines *
 ## 📦 Installation & Setup
 
 ### Prerequisites
+
 - **Node.js** (v16+) and **npm**
 - **Python** (3.8+)
 - **Git**
@@ -65,35 +73,42 @@ An intelligent full-stack insurance claim decision-making system that combines *
 ### Backend Setup
 
 1. **Clone the repository**:
+
 ```bash
-git clone 
-cd insurance-ai-agent
+git clone
+cd VERICLAIM_AI
 ```
 
 2. **Install Python dependencies**:
+
 ```bash
 pip install -r requirements.txt
 ```
 
 ---
+
 ```
 **********Step 3 & 4 to run Gemma 1B/2B Locally**********
 ```
+
 ---
 
 3. **For GPU users (CUDA 12.1)**:
+
 ```bash
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 ```
 
 4. **For CPU-only users**:
+
 ```bash
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
 ```
 
 5. **Start the FastAPI server**:
+
 ```bash
-uvicorn main:app --reload
+python -m uvicorn api.main:app --reload --port 8000
 ```
 
 The backend will be available at `http://localhost:8000`
@@ -101,16 +116,19 @@ The backend will be available at `http://localhost:8000`
 ### Frontend Setup
 
 1. **Navigate to frontend directory**:
+
 ```bash
 cd frontend  # or wherever your React app is located
 ```
 
 2. **Install dependencies**:
+
 ```bash
 npm install
 ```
 
 3. **Start the development server**:
+
 ```bash
 npm run dev
 ```
@@ -120,6 +138,7 @@ The frontend will be available at `http://localhost:8080`
 ## 📋 Requirements
 
 ### Backend Dependencies (`requirements.txt`)
+
 ```
 fastapi==0.104.1
 uvicorn==0.24.0
@@ -135,6 +154,7 @@ groq==0.4.1
 ```
 
 ### Frontend Dependencies (included in `package.json`)
+
 - React 18+
 - TypeScript
 - Tailwind CSS
@@ -146,15 +166,18 @@ groq==0.4.1
 ### Backend Endpoints
 
 #### `POST /upload-pdf`
+
 Upload and process insurance policy PDF documents.
 
 **Request**: Multipart form data with PDF file
 **Response**: Confirmation of successful processing
 
-#### `POST /query` 
+#### `POST /query`
+
 Analyze insurance claims against uploaded policies.
 
 **Request**:
+
 ```json
 {
   "user_query": "I was hospitalized 10 months after starting the policy."
@@ -162,18 +185,22 @@ Analyze insurance claims against uploaded policies.
 ```
 
 **Response**:
+
 ```json
 {
   "result": {
     "decision": "Rejected",
     "amount": "N/A",
     "justification": "Hospitalization occurred before the 12-month waiting period.",
-    "matched_clauses": ["Policy allows hospitalization claims only after 12 months..."]
+    "matched_clauses": [
+      "Policy allows hospitalization claims only after 12 months..."
+    ]
   }
 }
 ```
 
 #### `GET /docs`
+
 Interactive API documentation (Swagger UI)
 
 ## 🧪 Example Usage
@@ -181,13 +208,15 @@ Interactive API documentation (Swagger UI)
 ### Complete Workflow
 
 1. **Upload Policy Document**:
+
    - Open the React frontend at `http://localhost:8080`
    - Drag and drop your insurance policy PDF
    - Wait for processing confirmation
 
 2. **Submit Claim Query**:
+
    - Enter your claim details in natural language
-   - Example: *"I need surgery coverage after 15 months of active policy"*
+   - Example: _"I need surgery coverage after 15 months of active policy"_
 
 3. **Review AI Decision**:
    - See the AI's decision (Approved/Rejected)
@@ -208,10 +237,10 @@ curl -X POST "http://localhost:8000/query" \
 ## 📂 Project Structure
 
 ```
-HackRX/
+VERICLAIM_AI
 ├── Backend-ai/
 │   ├── main.py              # FastAPI application
-│   ├── logic.py             # Claim processing logic  
+│   ├── logic.py             # Claim processing logic
 │   ├── requirements.txt     # Python dependencies
 │   └── policy_clause.pdf    # Sample policy document
 ├── Frontend/
@@ -242,7 +271,7 @@ GROQ_API_KEY=
 Update API base URL in `src/config.ts` if needed:
 
 ```typescript
-export const API_BASE_URL = 'http://localhost:8000';
+export const API_BASE_URL = "http://localhost:8000";
 ```
 
 ## 🚀 Deployment
@@ -252,6 +281,7 @@ export const API_BASE_URL = 'http://localhost:8000';
 For production deployment, consider:
 
 1. **Docker containerization**:
+
 ```dockerfile
 FROM python:3.9
 COPY requirements.txt .
@@ -265,6 +295,7 @@ CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
 ### Frontend Deployment
 
 1. **Build for production**:
+
 ```bash
 npm run build
 ```
@@ -282,12 +313,14 @@ npm run build
 ## ✅ Roadmap
 
 ### Near Term
+
 - [ ] Enhanced PDF parsing for complex documents
 - [ ] Multi-language support
 - [ ] Improved error handling and validation
 - [ ] User authentication system
 
-### Future Features  
+### Future Features
+
 - [ ] Multi-agent system for complex claims
 - [ ] Integration with external insurance APIs
 - [ ] Advanced fraud detection capabilities
@@ -302,44 +335,13 @@ npm run build
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## 🙋♂️ Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](../../issues) page for existing solutions
-2. Create a new issue with detailed information
-3. Join our [Discussions](../../discussions) for community support
-
 ## 🎯 Key Benefits
 
-- **Faster Processing**: Reduce claim processing time from days to minutes[1][6]
-- **Improved Accuracy**: AI-powered analysis reduces human error in claim decisions[8][12]
-- **Cost Effective**: Automate up to 50% of claims processing tasks[6]
-- **Scalable**: Handle increasing claim volumes without proportional staff increases[8]
-- **Transparent**: Clear justifications for every AI decision[10]
-- **User-Friendly**: Intuitive interface for both technical and non-technical users[2]
+- ⚡ **Rapid Turnaround**: Accelerates claim processing from days to just minutes
+- 🎯 **Higher Precision**: AI-driven evaluation minimizes manual errors in decision-making
+- 💰 **Operational Efficiency**: Reduces costs by automating repetitive claim workflows
+- 📈 **Highly Scalable**: Adapts easily to growing claim volumes without additional staffing
+- 🔎 **Explainable AI**: Provides transparent and auditable reasoning for every decision
+- 😊 **Easy to Use**: Intuitive interface for both technical and non-technical users
 
-**Built with ❤️ for the future of insurance technology**
-
-[1] https://huggingface.co/spaces/anoopreddyyeddula/Automated-Insurance-Claim-Validation-System/tree/main
-[2] https://www.kdnuggets.com/a-simple-to-implement-end-to-end-project-with-huggingface
-[3] https://huggingface.co/harshita23sh/setfit-model-intent-classification-insurance
-[4] https://towardsdatascience.com/building-nlp-powered-applications-with-hugging-face-transformers-9f561effc84f/
-[5] https://railway.com/deploy/z52Exi
-[6] https://www.lyzr.ai/blog/ai-agents-for-insurance-claims/
-[7] https://intellisqr.com/consulting-services/ai-solution-development
-[8] https://intellias.com/ai-agents-for-insurance/
-[9] https://github.com/Michael95-m/API-for-insurance-claim-model
-[10] https://www.domo.com/glossary/insurance-ai-agents
-[11] https://5ly.co/blog/ai-tech-stack/
-[12] https://www.rapidinnovation.io/post/ai-agents-for-claims-workflow
-[13] https://www.damcogroup.com/blogs/ai-agents-in-insurance-intelligent-leap-beyond-traditional-chatbots
-[14] https://markovate.com/intelligent-agents-for-insurance/
-[15] https://huggingface.co/datasets/OpenLeecher/lmsys_chat_1m_clean/viewer/default/train
-[16] https://www.tcs.com/what-we-do/industries/insurance/white-paper/ai-agents-insurance-claims-function
-[17] https://developers.cloudflare.com/developer-platform/llms-full.txt
-[18] https://huggingface.co/datasets/shalabh05/shalabh_most_updated/viewer
+**Built with ❤️ for the future of Insurance technology**
