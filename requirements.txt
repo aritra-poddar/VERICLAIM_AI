@@ -4,7 +4,7 @@ python-dotenv
 requests
 numpy<2
 faiss-cpu>=1.7.3,<1.7.5
-torch==2.1.2+cpu ; platform_system=="Linux"
+torch==2.1.2
 sentence-transformers==2.6.1
 spacy==3.7.2
 pymupdf==1.23.26
