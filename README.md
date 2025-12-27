@@ -1,9 +1,9 @@
 # 🛡️ VERICLAIM_AI
-<<<<<<< HEAD
+
 
 An intelligent full-stack, AI-driven insurance claim evaluation platform integrating a FastAPI backend with a React TypeScript frontend, leveraging Hugging Face Transformers and the Gemma LLM. The system interprets policy clauses and customer inputs to automatically determine claim outcomes — Approved or Rejected — while providing detailed explanations and estimated settlement values.
-=======
->>>>>>> 888c77830e4aaef3448de44bdfad190e408cbff9
+=====
+
 
 An intelligent full-stack, AI-driven insurance claim evaluation platform integrating a FastAPI backend with a React TypeScript frontend, leveraging Hugging Face Transformers and the Gemma LLM. The system interprets policy clauses and customer inputs to automatically determine claim outcomes — Approved or Rejected — while providing detailed explanations and estimated settlement values.
 ## 🚀 Features
@@ -367,4 +367,4 @@ npm run build
 - 😊 **Easy to Use**: Intuitive interface for both technical and non-technical users  
 
 **Built with ❤️ for the future of Insurance technology** 
->>>>>>> 888c77830e4aaef3448de44bdfad190e408cbff9
+
