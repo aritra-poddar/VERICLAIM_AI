@@ -1,9 +1,8 @@
 {
   "buildCommand": "pip install -r requirements.txt",
-  "outputDirectory": "public",
   "functions": {
     "api/main.py": {
-      "runtime": "python3.11"
+      "runtime": "@vercel/python@3.11"
     }
   }
 }
