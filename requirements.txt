@@ -1,17 +1,14 @@
-uvicorn
-pydantic
-huggingface_hub
-torch
-gunicorn
-fastapi
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
 python-dotenv
-PyMuPDF
-numpy
-faiss-cpu
 requests
-sentence-transformers
-spacy
-groq
+numpy<2
+faiss-cpu==1.7.4
+torch==2.1.2+cpu ; platform_system=="Linux"
+sentence-transformers==2.6.1
+spacy==3.7.2
+pymupdf==1.23.26
 python-multipart
 python-docx
-https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+transformers==4.38.2
+tokenizers==0.15.2
