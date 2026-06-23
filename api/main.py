@@ -28,12 +28,20 @@ if not GROQ_API_KEY:
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 # Load spaCy model safely
+# Load spaCy model safely
 try:
     nlp = spacy.load("en_core_web_sm")
 except OSError:
-    nlp = None  # graceful fallback
+    nlp = None
 
-model = SentenceTransformer("all-MiniLM-L6-v2")
+# Lazy-load model to reduce startup memory
+_model = None
+
+def get_model():
+    global _model
+    if _model is None:
+        _model = SentenceTransformer("all-MiniLM-L6-v2")
+    return _model
 
 app = FastAPI()
 
@@ -152,37 +160,36 @@ async def upload_pdf(file: UploadFile = File(...), user_query: str = Form(...)):
         f.write(await file.read())
 
     def process_pdf():
-        text = extract_text_from_pdf(file_path)
-        real_clauses = extract_clauses_from_pdf(text)
+    model = get_model()
 
-        if not real_clauses:
-            raise HTTPException(status_code=400, detail="No valid clauses found in PDF.")
+    text = extract_text_from_pdf(file_path)
+    real_clauses = extract_clauses_from_pdf(text)
 
-        clause_embeddings = model.encode(real_clauses)
-        clause_embeddings_np = np.array(clause_embeddings).astype("float32")
+    if not real_clauses:
+        raise HTTPException(
+            status_code=400,
+            detail="No valid clauses found in PDF."
+        )
 
-        dimension = clause_embeddings_np.shape[1]
-        index = faiss.IndexFlatL2(dimension)
-        index.add(clause_embeddings_np)
+    clause_embeddings = model.encode(real_clauses)
+    clause_embeddings_np = np.array(clause_embeddings).astype("float32")
 
-        parsed_query = parse_and_enhance_query(user_query)
-        query_embedding = model.encode([parsed_query])
+    dimension = clause_embeddings_np.shape[1]
+    index = faiss.IndexFlatL2(dimension)
+    index.add(clause_embeddings_np)
 
-        distances, indices = index.search(np.array(query_embedding), 5)
-        matched_clauses = [real_clauses[i] for i in indices[0]]
+    parsed_query = parse_and_enhance_query(user_query)
+    query_embedding = model.encode([parsed_query])
 
-        top_clauses = ', '.join(matched_clauses[:5])
-        llm_result = process_claim(user_query, top_clauses)
+    distances, indices = index.search(np.array(query_embedding), 5)
+    matched_clauses = [real_clauses[i] for i in indices[0]]
 
-        return {"matched_clauses": matched_clauses, "LLM_response": llm_result}
-
-    result = await run_in_threadpool(process_pdf)
+    top_clauses = ', '.join(matched_clauses[:5])
+    llm_result = process_claim(user_query, top_clauses)
 
     return {
-        "message": "File uploaded and processed successfully.",
-        "user_query": user_query,
-        "matched_clauses": result["matched_clauses"],
-        "LLM_response": result["LLM_response"]
+        "matched_clauses": matched_clauses,
+        "LLM_response": llm_result
     }
 
 
