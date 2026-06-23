@@ -8,16 +8,13 @@ import numpy as np
 import faiss
 import json
 import requests
-from sentence_transformers import SentenceTransformer
 from fastapi.middleware.cors import CORSMiddleware
-import spacy
 import re
 from docx import Document
 from fastapi.concurrency import run_in_threadpool
 
 # ---------- Setup ----------
 
-# Load .env safely from project root
 load_dotenv(find_dotenv())
 
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
@@ -27,27 +24,32 @@ if not GROQ_API_KEY:
 
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
-# Load spaCy model safely
-try:
-    nlp = spacy.load("en_core_web_sm")
-except OSError:
-    nlp = None
-
-# Lazy-load model to reduce startup memory
+# Lazy-load both heavy models — load ONLY on first request
 _model = None
+_nlp = None
 
 def get_model():
     global _model
     if _model is None:
+        from sentence_transformers import SentenceTransformer
         _model = SentenceTransformer("all-MiniLM-L6-v2")
     return _model
+
+def get_nlp():
+    global _nlp
+    if _nlp is None:
+        try:
+            import spacy
+            _nlp = spacy.load("en_core_web_sm")
+        except OSError:
+            _nlp = False  # Mark as failed so we don't retry
+    return _nlp if _nlp else None
 
 app = FastAPI()
 
 UPLOAD_DIR = "uploaded_pdfs"
 os.makedirs(UPLOAD_DIR, exist_ok=True)
 
-# Enable CORS
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -78,6 +80,7 @@ def extract_clauses_from_pdf(text: str) -> list[str]:
 
 
 def parse_and_enhance_query(user_query: str) -> str:
+    nlp = get_nlp()  # Lazy load only when needed
     if not nlp:
         return user_query
 
@@ -144,6 +147,37 @@ Response:
     except Exception as e:
         return {"error": str(e)}
 
+
+def build_faiss_and_search(clauses: list[str], query: str):
+    """Encode clauses and search — done in one shot to minimize peak memory."""
+    model = get_model()
+
+    # Encode in small batches to reduce peak memory
+    batch_size = 16
+    all_embeddings = []
+    for i in range(0, len(clauses), batch_size):
+        batch = clauses[i:i + batch_size]
+        embeddings = model.encode(batch, convert_to_numpy=True)
+        all_embeddings.append(embeddings)
+
+    clause_embeddings_np = np.vstack(all_embeddings).astype("float32")
+
+    dimension = clause_embeddings_np.shape[1]
+    index = faiss.IndexFlatL2(dimension)
+    index.add(clause_embeddings_np)
+
+    parsed_query = parse_and_enhance_query(query)
+    query_embedding = model.encode([parsed_query], convert_to_numpy=True).astype("float32")
+
+    distances, indices = index.search(query_embedding, min(5, len(clauses)))
+    matched_clauses = [clauses[i] for i in indices[0]]
+
+    # Free index memory immediately
+    del index
+    del clause_embeddings_np
+
+    return matched_clauses
+
 # ---------- Routes ----------
 
 @app.get("/")
@@ -158,32 +192,17 @@ async def upload_pdf(file: UploadFile = File(...), user_query: str = Form(...)):
     with open(file_path, "wb") as f:
         f.write(await file.read())
 
-    # FIX 1: Proper indentation inside process_pdf()
     def process_pdf():
-        model = get_model()
-
         text = extract_text_from_pdf(file_path)
         real_clauses = extract_clauses_from_pdf(text)
 
         if not real_clauses:
-            raise HTTPException(
-                status_code=400,
-                detail="No valid clauses found in PDF."
-            )
+            raise HTTPException(status_code=400, detail="No valid clauses found in PDF.")
 
-        clause_embeddings = model.encode(real_clauses)
-        clause_embeddings_np = np.array(clause_embeddings).astype("float32")
+        # Cap clauses to top 100 to limit memory usage
+        real_clauses = real_clauses[:100]
 
-        dimension = clause_embeddings_np.shape[1]
-        index = faiss.IndexFlatL2(dimension)
-        index.add(clause_embeddings_np)
-
-        parsed_query = parse_and_enhance_query(user_query)
-        query_embedding = model.encode([parsed_query])
-
-        distances, indices = index.search(np.array(query_embedding), 5)
-        matched_clauses = [real_clauses[i] for i in indices[0]]
-
+        matched_clauses = build_faiss_and_search(real_clauses, user_query)
         top_clauses = ', '.join(matched_clauses[:5])
         llm_result = process_claim(user_query, top_clauses)
 
@@ -192,7 +211,6 @@ async def upload_pdf(file: UploadFile = File(...), user_query: str = Form(...)):
             "LLM_response": llm_result
         }
 
-    # FIX 2: Actually call process_pdf and return its result
     result = await run_in_threadpool(process_pdf)
 
     return {
@@ -216,33 +234,29 @@ async def upload_doc(file: UploadFile = File(...), user_query: str = Form(...)):
     except Exception:
         raise HTTPException(status_code=500, detail="Failed to read Word document.")
 
-    # FIX 3: Load model before using it in /upload-docs
-    model = get_model()
+    def process_doc():
+        real_clauses = extract_clauses_from_pdf(text)
 
-    real_clauses = extract_clauses_from_pdf(text)
+        if not real_clauses:
+            raise HTTPException(status_code=400, detail="No valid clauses found in Word document.")
 
-    if not real_clauses:
-        raise HTTPException(status_code=400, detail="No valid clauses found in Word document.")
+        # Cap clauses to top 100 to limit memory usage
+        real_clauses = real_clauses[:100]
 
-    clause_embeddings = model.encode(real_clauses)
-    clause_embeddings_np = np.array(clause_embeddings).astype("float32")
+        matched_clauses = build_faiss_and_search(real_clauses, user_query)
+        top_clauses = ', '.join(matched_clauses[:5])
+        llm_result = process_claim(user_query, top_clauses)
 
-    dimension = clause_embeddings_np.shape[1]
-    index = faiss.IndexFlatL2(dimension)
-    index.add(clause_embeddings_np)
+        return {
+            "matched_clauses": matched_clauses,
+            "LLM_response": llm_result
+        }
 
-    parsed_query = parse_and_enhance_query(user_query)
-    query_embedding = model.encode([parsed_query])
-
-    distances, indices = index.search(np.array(query_embedding), 5)
-    matched_clauses = [real_clauses[i] for i in indices[0]]
-
-    top_clauses = ', '.join(matched_clauses[:5])
-    result = process_claim(user_query, top_clauses)
+    result = await run_in_threadpool(process_doc)
 
     return {
         "message": "Word document uploaded and processed successfully.",
         "user_query": user_query,
-        "matched_clauses": matched_clauses,
-        "LLM_response": result
+        "matched_clauses": result["matched_clauses"],
+        "LLM_response": result["LLM_response"]
     }
