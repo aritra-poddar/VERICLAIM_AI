@@ -28,7 +28,6 @@ if not GROQ_API_KEY:
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 # Load spaCy model safely
-# Load spaCy model safely
 try:
     nlp = spacy.load("en_core_web_sm")
 except OSError:
@@ -159,37 +158,48 @@ async def upload_pdf(file: UploadFile = File(...), user_query: str = Form(...)):
     with open(file_path, "wb") as f:
         f.write(await file.read())
 
+    # FIX 1: Proper indentation inside process_pdf()
     def process_pdf():
-    model = get_model()
+        model = get_model()
 
-    text = extract_text_from_pdf(file_path)
-    real_clauses = extract_clauses_from_pdf(text)
+        text = extract_text_from_pdf(file_path)
+        real_clauses = extract_clauses_from_pdf(text)
 
-    if not real_clauses:
-        raise HTTPException(
-            status_code=400,
-            detail="No valid clauses found in PDF."
-        )
+        if not real_clauses:
+            raise HTTPException(
+                status_code=400,
+                detail="No valid clauses found in PDF."
+            )
 
-    clause_embeddings = model.encode(real_clauses)
-    clause_embeddings_np = np.array(clause_embeddings).astype("float32")
+        clause_embeddings = model.encode(real_clauses)
+        clause_embeddings_np = np.array(clause_embeddings).astype("float32")
 
-    dimension = clause_embeddings_np.shape[1]
-    index = faiss.IndexFlatL2(dimension)
-    index.add(clause_embeddings_np)
+        dimension = clause_embeddings_np.shape[1]
+        index = faiss.IndexFlatL2(dimension)
+        index.add(clause_embeddings_np)
 
-    parsed_query = parse_and_enhance_query(user_query)
-    query_embedding = model.encode([parsed_query])
+        parsed_query = parse_and_enhance_query(user_query)
+        query_embedding = model.encode([parsed_query])
 
-    distances, indices = index.search(np.array(query_embedding), 5)
-    matched_clauses = [real_clauses[i] for i in indices[0]]
+        distances, indices = index.search(np.array(query_embedding), 5)
+        matched_clauses = [real_clauses[i] for i in indices[0]]
 
-    top_clauses = ', '.join(matched_clauses[:5])
-    llm_result = process_claim(user_query, top_clauses)
+        top_clauses = ', '.join(matched_clauses[:5])
+        llm_result = process_claim(user_query, top_clauses)
+
+        return {
+            "matched_clauses": matched_clauses,
+            "LLM_response": llm_result
+        }
+
+    # FIX 2: Actually call process_pdf and return its result
+    result = await run_in_threadpool(process_pdf)
 
     return {
-        "matched_clauses": matched_clauses,
-        "LLM_response": llm_result
+        "message": "File uploaded and processed successfully.",
+        "user_query": user_query,
+        "matched_clauses": result["matched_clauses"],
+        "LLM_response": result["LLM_response"]
     }
 
 
@@ -205,6 +215,9 @@ async def upload_doc(file: UploadFile = File(...), user_query: str = Form(...)):
         text = "\n".join([para.text for para in document.paragraphs])
     except Exception:
         raise HTTPException(status_code=500, detail="Failed to read Word document.")
+
+    # FIX 3: Load model before using it in /upload-docs
+    model = get_model()
 
     real_clauses = extract_clauses_from_pdf(text)
 
