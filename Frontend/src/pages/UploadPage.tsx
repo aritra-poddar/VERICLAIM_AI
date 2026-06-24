@@ -82,11 +82,10 @@ export default function UploadPage() {
     formData.append("user_query", userQuery); // Add query to form data
 
     try {
-      const res = await fetch("http://127.0.0.1:8000/upload-pdf", {
-        method: "POST",
-        body: formData,
-      });
-
+      const res = await fetch("https://vericlaim-ai-2.onrender.com/upload-pdf", {
+  method: "POST",
+  body: formData,
+     });
       const data = await res.json();
       setResponse(data);
     } catch (err) {
@@ -111,7 +110,7 @@ export default function UploadPage() {
     formData.append("user_query", userQuery); // keep query same
 
     try {
-      const res = await fetch("http://127.0.0.1:8000/upload-docs", {
+      const res = await fetch("https://vericlaim-ai-2.onrender.com/upload-docs", {
         method: "POST",
         body: formData,
       });
@@ -141,7 +140,7 @@ export default function UploadPage() {
     formData.append("user_query", userQuery);
 
     try {
-      const res = await fetch("http://127.0.0.1:8000/upload-pdf", {
+      const res = await fetch("https://vericlaim-ai-2.onrender.com/upload-pdf", {
         method: "POST",
         body: formData,
       });
